@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/welcome_screen"
+    tools:context=".activity.WelcomeScreenActivity"
+    >
+
+    <android.support.constraint.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/guideline"
+        app:layout_constraintGuide_percent="0.35"
+        android:orientation="horizontal"/>
+    <ImageView
+        android:layout_width="178.35dp"
+        android:layout_height="162.67dp"
+        android:id="@+id/imageViewLogo"
+        android:src="@drawable/logo_go_jepang_splash_screen"
+        android:layout_centerInParent="true"
+        tools:ignore="ContentDescription"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guideline"
+        />
+
+    <TextView
+        android:id="@+id/textViewSponsor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textViewInvestor"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="169dp"
+        android:layout_marginEnd="165dp"
+        android:layout_marginBottom="6dp"
+        android:fontFamily="@font/latomedium"
+        android:text="@string/sponsor"
+        android:textColor="@color/colorWhite"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/textViewInvestor"/>
+
+    <TextView
+        android:id="@+id/textViewInvestor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="134dp"
+        android:layout_marginEnd="127dp"
+        android:layout_marginBottom="37dp"
+        android:fontFamily="@font/latomedium"
+        android:text="@string/naoyukiacademiccenter"
+        android:textColor="@color/colorWhite"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintVertical_bias="0.054"/>
+</android.support.constraint.ConstraintLayout>

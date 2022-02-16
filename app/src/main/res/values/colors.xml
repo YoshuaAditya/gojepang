@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorHomeBackground">#FEF2F2</color>
+    <color name="colorToolbarMaroon">#EC6265</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFF8F8</color>
+    <color name="colorWhitePure">#FFFFFF</color>
+    <color name="colorWhitePureOpacity40">#66FFFFFF</color>
+    <color name="colorButton">#EF7F82</color>
+    <color name="colorLessonBackground">#DFEBF4</color>
+    <color name="colorButtonIntro">#37A8DF</color>
+    <color name="colorLessonStartButton">#F6FBFD</color>
+    <color name="colorwronganswer">#F0595D</color>
+    <color name="colorrightanswer">#59C175</color>
+    <color name="goodscore">#59C175</color>
+    <color name="badscore">#F0595D</color>
+    <color name="coloraboutdeveloper">#37A8DF</color>
+    <color name="colorButtonThankyouWebsite">#CB4444</color>
+    <color name="colorKanjiHomeBackground">#F5E7F5</color>
+    <color name="colorKanjiIntroBackground">#F2DFF1</color>
+    <color name="colorButtonKanjiIntro">#B965C6</color>
+    <color name="colorKanjiText">#707070</color>
+    <color name="colorGreenGrammar">#41B09C</color>
+    <color name="colorGreenPattern">#0FB9B1</color>
+    <color name="colorGrammarBackground">#FFFCFC</color>
+    <color name="colorTextCardList">#FADCDD</color>
+    <color name="colorAboutSponsor">#C31942</color>
+    <color name="colorJapaneseCourse">#BC002D</color>
+</resources>

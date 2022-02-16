@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/editprofile" android:title="@string/editprofile" android:icon="@drawable/ic_edit_profile"/>
+    <item android:id="@+id/editlanguage" android:title="@string/editlanguage" android:icon="@drawable/ic_edit_language"/>
+    <item android:id="@+id/editcharacters" android:title="@string/editcharacters" android:icon="@drawable/ic_edit_characters"/>
+    <item android:id="@+id/notification" android:title="@string/notification" android:icon="@drawable/ic_notification"/>
+    <item android:id="@+id/changepassword" android:title="@string/changepassword" android:icon="@drawable/ic_change_password"/>
+    <item android:id="@+id/shareourapp" android:title="@string/shareourapp" android:icon="@drawable/ic_share_our_app"/>
+    <item android:id="@+id/reviewus" android:title="@string/reviewus" android:icon="@drawable/ic_review_us"/>
+    <item android:id="@+id/logout" android:title="@string/logout" android:icon="@drawable/ic_logout"/>
+</menu>

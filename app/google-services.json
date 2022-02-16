@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "259945572547",
+    "firebase_url": "https://gojepang-83fd3.firebaseio.com",
+    "project_id": "gojepang-83fd3",
+    "storage_bucket": "gojepang-83fd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259945572547:android:4862aaa61ba1d51f",
+        "android_client_info": {
+          "package_name": "com.inocen.gojepang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259945572547-7upmdkisk0dr9219192luj3s4dfttrfc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inocen.gojepang",
+            "certificate_hash": "3bdb0fd4574ec0079604c54234377c23219708ec"
+          }
+        },
+        {
+          "client_id": "259945572547-fo4r1nmea7gs8ce0lqeh64tc1k2ietml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGXS57IVEBdM_ZJDJ4eM4LpW8RGUpkAiw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259945572547-fo4r1nmea7gs8ce0lqeh64tc1k2ietml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

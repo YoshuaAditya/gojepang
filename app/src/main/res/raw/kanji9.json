@@ -1,0 +1,215 @@
+{
+  "explanationEnglish": "-",
+  "explanationIndonesia": "-",
+  "kanjis": {
+    "vc0901": {
+      "vc0901_0": {
+        "kanji": "本",
+        "indonesia": "akar, kebenaran, buku",
+        "english": "root, true, book",
+        "hiraganakun": "もと",
+        "hiraganaon": "ホン",
+        "romajikun": "moto",
+        "romajion": "hon"
+      },
+      "vc0901_1": {
+        "kanji": "山本",
+        "indonesia": "Yamamoto-nama keluarga ",
+        "english": "Yamamoto-a Japanese surname",
+        "hiraganakun": "やまもと",
+        "hiraganaon": "-",
+        "romajikun": "yamamoto",
+        "romajion": "-"
+      },
+      "vc0901_2": {
+        "kanji": "本日",
+        "indonesia": "hari ini",
+        "english": "this day",
+        "hiraganakun": "ほんじつ",
+        "hiraganaon": "-",
+        "romajikun": "honjitsu",
+        "romajion": "-"
+      },
+      "vc0901_3": {
+        "kanji": "本店",
+        "indonesia": "kantor pusat",
+        "english": "the main office",
+        "hiraganakun": "ほんてん",
+        "hiraganaon": "-",
+        "romajikun": "honten",
+        "romajion": "-"
+      }
+    },
+    "vc0902": {
+      "vc0902_0": {
+        "kanji": "半",
+        "indonesia": "setengah",
+        "english": "half",
+        "hiraganakun": "なかーば",
+        "hiraganaon": "ハン",
+        "romajikun": "naka-ba",
+        "romajion": "han"
+      },
+      "vc0902_1": {
+        "kanji": "半年",
+        "indonesia": "setengah tahun",
+        "english": "half a year",
+        "hiraganakun": "はんとし",
+        "hiraganaon": "-",
+        "romajikun": "hantoshi",
+        "romajion": "-"
+      },
+      "vc0902_2": {
+        "kanji": "半分",
+        "indonesia": "setengah bagian",
+        "english": "half part",
+        "hiraganakun": "はんぶん",
+        "hiraganaon": "-",
+        "romajikun": "hanbun",
+        "romajion": "-"
+      },
+      "vc0902_3": {
+        "kanji": "半日",
+        "indonesia": "setengah hari",
+        "english": "half a day",
+        "hiraganakun": "はんにち",
+        "hiraganaon": "-",
+        "romajikun": "hannichi",
+        "romajion": "-"
+      },
+      "vc0902_4": {
+        "kanji": "三時半",
+        "indonesia": "3:30",
+        "english": "3:30",
+        "hiraganakun": "さんじはん",
+        "hiraganaon": "-",
+        "romajikun": "sanjihan",
+        "romajion": "-"
+      }
+    },
+    "vc0903": {
+      "vc0903_0": {
+        "kanji": "分",
+        "indonesia": "bagian, menit",
+        "english": "division, part, minute",
+        "hiraganakun": "わーかれる, わーかる, わーける",
+        "hiraganaon": "ブン, フン, ～プン",
+        "romajikun": "wa-kareru, wa-karu, wa-keru",
+        "romajion": "bun, fun, ~pun"
+      },
+      "vc0903_1": {
+        "kanji": "分ける",
+        "indonesia": "membagi",
+        "english": "divide",
+        "hiraganakun": "わける",
+        "hiraganaon": "-",
+        "romajikun": "wakeru",
+        "romajion": "-"
+      },
+      "vc0903_2": {
+        "kanji": "五分",
+        "indonesia": "5 menit",
+        "english": "five minutes",
+        "hiraganakun": "ごふん",
+        "hiraganaon": "-",
+        "romajikun": "gofun",
+        "romajion": "-"
+      },
+      "vc0903_3": {
+        "kanji": "分かる",
+        "indonesia": "megerti paham",
+        "english": "to understand",
+        "hiraganakun": "わかる",
+        "hiraganaon": "-",
+        "romajikun": "wakaru",
+        "romajion": "-"
+      },
+      "vc0903_4": {
+        "kanji": "六分",
+        "indonesia": "6 menit",
+        "english": "six minutes",
+        "hiraganakun": "ろっぷん",
+        "hiraganaon": "-",
+        "romajikun": "roppun",
+        "romajion": "-"
+      }
+    },
+    "vc0904": {
+      "vc0904_0": {
+        "kanji": "力",
+        "indonesia": "kekuatan",
+        "english": "power, force",
+        "hiraganakun": "ちから",
+        "hiraganaon": "リョク, リキ",
+        "romajikun": "chikara",
+        "romajion": "ryoku, riki"
+      },
+      "vc0904_1": {
+        "kanji": "水力",
+        "indonesia": "daya air",
+        "english": "water power",
+        "hiraganakun": "すいりょく",
+        "hiraganaon": "-",
+        "romajikun": "suiryoku",
+        "romajion": "-"
+      },
+      "vc0904_2": {
+        "kanji": "力学",
+        "indonesia": "dinamis",
+        "english": "dynamics",
+        "hiraganakun": "りきがく",
+        "hiraganaon": "-",
+        "romajikun": "rikigaku",
+        "romajion": "-"
+      },
+      "vc0904_3": {
+        "kanji": "火力",
+        "indonesia": "daya panas",
+        "english": "heat power",
+        "hiraganakun": "かりょく",
+        "hiraganaon": "-",
+        "romajikun": "karyoku",
+        "romajion": "-"
+      }
+    },
+    "vc0905": {
+      "vc0905_0": {
+        "kanji": "何",
+        "indonesia": "apa",
+        "english": "what",
+        "hiraganakun": "なに, なん",
+        "hiraganaon": "-",
+        "romajikun": "nani, nan",
+        "romajion": "-"
+      },
+      "vc0905_1": {
+        "kanji": "何人",
+        "indonesia": "berapa orang",
+        "english": "how many people",
+        "hiraganakun": "なんにん",
+        "hiraganaon": "-",
+        "romajikun": "nannin",
+        "romajion": "-"
+      },
+      "vc0905_2": {
+        "kanji": "何ですか",
+        "indonesia": "apa itu?",
+        "english": "what is it?",
+        "hiraganakun": "なんですか",
+        "hiraganaon": "-",
+        "romajikun": "nan desuka",
+        "romajion": "-"
+      },
+      "vc0905_3": {
+        "kanji": "何年",
+        "indonesia": "berapa tahun",
+        "english": "what year",
+        "hiraganakun": "なんねん",
+        "hiraganaon": "-",
+        "romajikun": "nannen",
+        "romajion": "-"
+      }
+    }
+  }
+}
+

@@ -1,0 +1,137 @@
+{
+  "words": {
+    "vc0101": {
+      "kanji": "おはようございます",
+      "kana": "おはようございます",
+      "romaji": "ohayou gozaimasu",
+      "indonesia": "selamat pagi ",
+      "english": "good morning"
+    },
+    "vc0102": {
+      "kanji": "こんにちは",
+      "kana": "こんにちは",
+      "romaji": "konnichiwa",
+      "indonesia": "selamat siang",
+      "english": "good afternoon"
+    },
+    "vc0103": {
+      "kanji": "こんばんは",
+      "kana": "こんばんは",
+      "romaji": "konbanwa",
+      "indonesia": "selamat malam",
+      "english": "good evening"
+    },
+    "vc0104": {
+      "kanji": "お休みなさい",
+      "kana": "おやすみなさい",
+      "romaji": "oyasuminasai",
+      "indonesia": "selamat tidur",
+      "english": "good night"
+    },
+    "vc0105": {
+      "kanji": "さようなら",
+      "kana": "さようなら",
+      "romaji": "sayounara",
+      "indonesia": "selamat tinggal",
+      "english": "good bye"
+    },
+    "vc0106": {
+      "kanji": "ありがとうございます",
+      "kana": "ありがとうございます",
+      "romaji": "arigatou gozaimasu",
+      "indonesia": "terimakasih",
+      "english": "thank you"
+    },
+    "vc0107": {
+      "kanji": "すみません",
+      "kana": "すみません",
+      "romaji": "sumimasen",
+      "indonesia": "permisi, maaf",
+      "english": " I'm sorry"
+    },
+    "vc0108": {
+      "kanji": "お願いします",
+      "kana": "おねがいします",
+      "romaji": "onegaishimasu",
+      "indonesia": "minta tolong",
+      "english": "please"
+    },
+    "vc0109": {
+      "kanji": "ゼロ、れい",
+      "kana": "ゼロ、れい",
+      "romaji": "zero, rei",
+      "indonesia": " nol",
+      "english": "zero"
+    },
+    "vc0110": {
+      "kanji": "一",
+      "kana": "いち",
+      "romaji": "ichi",
+      "indonesia": "satu",
+      "english": "one"
+    },
+    "vc0111": {
+      "kanji": "二",
+      "kana": "に",
+      "romaji": "ni",
+      "indonesia": "dua",
+      "english": "two"
+    },
+    "vc0112": {
+      "kanji": "三",
+      "kana": "さん",
+      "romaji": "san",
+      "indonesia": "tiga",
+      "english": "three"
+    },
+    "vc0113": {
+      "kanji": "四",
+      "kana": "よん、し",
+      "romaji": "yon, shi",
+      "indonesia": "empat",
+      "english": "four"
+    },
+    "vc0114": {
+      "kanji": "五",
+      "kana": "ご",
+      "romaji": "go",
+      "indonesia": "lima",
+      "english": "five"
+    },
+    "vc0115": {
+      "kanji": "六",
+      "kana": "ろく",
+      "romaji": "roku",
+      "indonesia": "enam",
+      "english": "six"
+    },
+    "vc0116": {
+      "kanji": "七",
+      "kana": "なな、しち",
+      "romaji": "nana, shichi",
+      "indonesia": "tujuh",
+      "english": "seven"
+    },
+    "vc0117": {
+      "kanji": "八",
+      "kana": "はち",
+      "romaji": "hachi",
+      "indonesia": "delapan",
+      "english": "eight"
+    },
+    "vc0118": {
+      "kanji": "九",
+      "kana": "きゅう、く",
+      "romaji": "kyuu, ku",
+      "indonesia": "sembilan ",
+      "english": "nine"
+    },
+    "vc0119": {
+      "kanji": "十",
+      "kana": "じゅう",
+      "romaji": "juu",
+      "indonesia": "sepuluh",
+      "english": "ten"
+    }
+  }
+}

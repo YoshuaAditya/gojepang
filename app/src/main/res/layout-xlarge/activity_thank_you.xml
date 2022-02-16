@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.ThankYouActivity"
+    android:background="@drawable/background_thankyou">
+
+    <ImageView
+        android:id="@+id/imageViewHome"
+        android:layout_width="62dp"
+        android:layout_height="57.02dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:src="@drawable/ic_home"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageViewThankyou"
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:layout_marginStart="106dp"
+        android:layout_marginTop="150dp"
+        android:layout_marginEnd="106dp"
+        android:src="@drawable/ic_thankyou"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewThankSponsor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="63dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="63dp"
+        android:fontFamily="@font/latomedium"
+        android:text="@string/thanksponsor"
+        android:textSize="40sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewThankyou" />
+
+    <TextView
+        android:id="@+id/textViewSponsorName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="93dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="93dp"
+        android:fontFamily="@font/latomedium"
+        android:text="@string/sponsorname"
+        android:textSize="35sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewThankSponsor" />
+
+    <TextView
+        android:id="@+id/textViewEducationFree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="76dp"
+        android:layout_marginEnd="76dp"
+        android:fontFamily="@font/latomedium"
+        android:text="@string/edufree"
+        android:textSize="35sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewSponsorName" />
+
+    <Button
+        android:id="@+id/buttonSeeWebsite"
+        android:layout_width="600dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="45dp"
+        android:layout_marginEnd="45dp"
+        android:textAllCaps="false"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/rounded_button_thankyou_sponsor"
+        android:elevation="10dp"
+        android:fontFamily="@font/latomedium"
+        android:text="@string/seemoresponsor"
+        android:textColor="@color/colorWhitePure"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+</android.support.constraint.ConstraintLayout>

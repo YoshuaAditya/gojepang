@@ -1,0 +1,224 @@
+{
+  "explanationEnglish": "-",
+  "explanationIndonesia": "-",
+  "kanjis": {
+    "vc0501": {
+      "vc0501_0": {
+        "kanji": "一",
+        "indonesia": "satu",
+        "english": "one",
+        "hiraganakun": "ひとーつ, ひと",
+        "hiraganaon": "イチ",
+        "romajikun": "hito-tsu, hito",
+        "romajion": "ichi"
+      },
+      "vc0501_1": {
+        "kanji": "一つ",
+        "indonesia": "satu buah",
+        "english": "one thing",
+        "hiraganakun": "ひとつ",
+        "hiraganaon": "-",
+        "romajikun": "hitotsu",
+        "romajion": "-"
+      },
+      "vc0501_2": {
+        "kanji": "一年",
+        "indonesia": "satu tahun",
+        "english": "one year",
+        "hiraganakun": "いちねん",
+        "hiraganaon": "-",
+        "romajikun": "ichinen",
+        "romajion": "-"
+      }
+    },
+    "vc0502": {
+      "vc0502_0": {
+        "kanji": "二",
+        "indonesia": "dua",
+        "english": "two",
+        "hiraganakun": "ふたーつ, ふた",
+        "hiraganaon": "ニ",
+        "romajikun": "futa-tsu, futa",
+        "romajion": "ni"
+      },
+      "vc0502_1": {
+        "kanji": "二つ",
+        "indonesia": "dua buah",
+        "english": "two things",
+        "hiraganakun": "ふたつ",
+        "hiraganaon": "-",
+        "romajikun": "futatsu",
+        "romajion": "-"
+      },
+      "vc0502_2": {
+        "kanji": "二月",
+        "indonesia": "Februari",
+        "english": "February",
+        "hiraganakun": "にがつ",
+        "hiraganaon": "-",
+        "romajikun": "nigatsu",
+        "romajion": "-"
+      },
+      "vc0502_3": {
+        "kanji": "二人",
+        "indonesia": "dua orang",
+        "english": "two people",
+        "hiraganakun": "ふたり",
+        "hiraganaon": "-",
+        "romajikun": "futari",
+        "romajion": "-"
+      },
+      "vc0502_4": {
+        "kanji": "二年",
+        "indonesia": "dua tahun",
+        "english": "two years",
+        "hiraganakun": "にねん",
+        "hiraganaon": "-",
+        "romajikun": "ninen",
+        "romajion": "-"
+      }
+    },
+    "vc0503": {
+      "vc0503_0": {
+        "kanji": "三",
+        "indonesia": "tiga",
+        "english": "three",
+        "hiraganakun": "みっつ",
+        "hiraganaon": "サン",
+        "romajikun": "mittsu",
+        "romajion": "san"
+      },
+      "vc0503_1": {
+        "kanji": "三つ",
+        "indonesia": "tiga buah",
+        "english": "three things",
+        "hiraganakun": "みっつ",
+        "hiraganaon": "-",
+        "romajikun": "mittsu",
+        "romajion": "-"
+      },
+      "vc0503_2": {
+        "kanji": "三日",
+        "indonesia": "tanggal 3",
+        "english": "the 3rd day, three days",
+        "hiraganakun": "みっか",
+        "hiraganaon": "-",
+        "romajikun": "mikka",
+        "romajion": "-"
+      },
+      "vc0503_3": {
+        "kanji": "三月",
+        "indonesia": "Maret",
+        "english": "March",
+        "hiraganakun": "さんがつ",
+        "hiraganaon": "-",
+        "romajikun": "sangatsu",
+        "romajion": "-"
+      },
+      "vc0503_4": {
+        "kanji": "三年",
+        "indonesia": "tiga tahun",
+        "english": "three years",
+        "hiraganakun": "さんねん",
+        "hiraganaon": "-",
+        "romajikun": "sannnen",
+        "romajion": "-"
+      }
+    },
+    "vc0504": {
+      "vc0504_0": {
+        "kanji": "四",
+        "indonesia": "empat",
+        "english": "four",
+        "hiraganakun": "よっーつ, よん, よ",
+        "hiraganaon": "シ",
+        "romajikun": "yott-tsu, yon, yo",
+        "romajion": "shi"
+      },
+      "vc0504_1": {
+        "kanji": "四つ",
+        "indonesia": "empat buah",
+        "english": "four things",
+        "hiraganakun": "よっつ",
+        "hiraganaon": "-",
+        "romajikun": "yottsu",
+        "romajion": "-"
+      },
+      "vc0504_2": {
+        "kanji": "四年",
+        "indonesia": "empat tahun",
+        "english": "four years",
+        "hiraganakun": "よねん",
+        "hiraganaon": "-",
+        "romajikun": "yonen",
+        "romajion": "-"
+      },
+      "vc0504_3": {
+        "kanji": "四日",
+        "indonesia": "tanggal 4",
+        "english": "the 4th day",
+        "hiraganakun": "よっか",
+        "hiraganaon": "-",
+        "romajikun": "yokka",
+        "romajion": "-"
+      },
+      "vc0504_4": {
+        "kanji": "四月",
+        "indonesia": "April",
+        "english": "April",
+        "hiraganakun": "しがつ",
+        "hiraganaon": "-",
+        "romajikun": "shigatsu",
+        "romajion": "-"
+      }
+    },
+    "vc0505": {
+      "vc0505_0": {
+        "kanji": "五",
+        "indonesia": "lima",
+        "english": "five",
+        "hiraganakun": "いつーつ, いつ",
+        "hiraganaon": "ゴ",
+        "romajikun": "itt-tsu, itsu",
+        "romajion": "go"
+      },
+      "vc0505_1": {
+        "kanji": "五つ",
+        "indonesia": "lima buah",
+        "english": "five things",
+        "hiraganakun": "いつつ",
+        "hiraganaon": "-",
+        "romajikun": "itsutsu",
+        "romajion": "-"
+      },
+      "vc0505_2": {
+        "kanji": "五月",
+        "indonesia": "Mei",
+        "english": "May",
+        "hiraganakun": "ごがつ",
+        "hiraganaon": "-",
+        "romajikun": "gogatsu",
+        "romajion": "-"
+      },
+      "vc0505_3": {
+        "kanji": "五日",
+        "indonesia": "tanggal 5",
+        "english": "the 5th day",
+        "hiraganakun": "いつか",
+        "hiraganaon": "-",
+        "romajikun": "itsuka",
+        "romajion": "-"
+      },
+      "vc0505_4": {
+        "kanji": "五年",
+        "indonesia": "lima tahun",
+        "english": "five years",
+        "hiraganakun": "ごねん",
+        "hiraganaon": "-",
+        "romajikun": "gonen",
+        "romajion": "-"
+      }
+    }
+  }
+}
+

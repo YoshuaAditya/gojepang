@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorHomeBackground"
+    tools:context=".activity.MenuActivity">
+
+    <android.support.design.widget.NavigationView
+        android:id="@+id/menu_nav_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="@color/colorWhitePure"
+        app:headerLayout="@layout/header"
+        app:menu="@menu/drawermenu" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/circleImageViewLesson"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_marginStart="22dp"
+                android:layout_marginTop="44dp"
+                android:layout_marginEnd="8dp"
+                android:elevation="10dp"
+                android:src="@drawable/lesson"
+                app:layout_constraintEnd_toStartOf="@+id/circleImageViewCard"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/circleImageViewCard"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="44dp"
+                android:layout_marginEnd="22dp"
+                android:elevation="10dp"
+                android:src="@drawable/card"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/circleImageViewLesson"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/textViewLesson"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="55dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="20dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/lesson"
+                android:textAlignment="center"
+                android:textSize="38sp"
+                app:layout_constraintEnd_toStartOf="@+id/textViewCard"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/circleImageViewLesson" />
+
+            <TextView
+                android:id="@+id/textViewCard"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="25dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="55dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/card"
+                android:textAlignment="center"
+                android:textSize="38sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/textViewLesson"
+                app:layout_constraintTop_toBottomOf="@+id/circleImageViewCard" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/circleImageViewKanji"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_marginStart="22dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="8dp"
+                android:elevation="10dp"
+                android:src="@drawable/kanji"
+                app:layout_constraintEnd_toStartOf="@+id/circleImageViewKanjiTest"
+                app:layout_constraintHorizontal_bias="0.538"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textViewLesson" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/circleImageViewKanjiTest"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="22dp"
+                android:elevation="10dp"
+                android:src="@drawable/kanji_test"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/circleImageViewKanji"
+                app:layout_constraintTop_toBottomOf="@+id/textViewCard" />
+
+            <TextView
+                android:id="@+id/textViewKanji"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="55dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="20dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/kanji"
+                android:textAlignment="center"
+                android:textSize="38sp"
+                app:layout_constraintEnd_toStartOf="@+id/textViewKanjiTest"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/circleImageViewKanji" />
+
+            <TextView
+                android:id="@+id/textViewKanjiTest"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="25dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="55dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/kanjitest"
+                android:textAlignment="center"
+                android:textSize="38sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/textViewKanji"
+                app:layout_constraintTop_toBottomOf="@+id/circleImageViewKanjiTest" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/circleImageViewGrammar"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_marginStart="22dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="8dp"
+                android:elevation="10dp"
+                android:src="@drawable/grammar"
+                app:layout_constraintEnd_toStartOf="@+id/circleImageViewDailyTalk"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textViewKanji" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/circleImageViewDailyTalk"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="22dp"
+                android:elevation="10dp"
+                android:src="@drawable/daily_talk"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/circleImageViewGrammar"
+                app:layout_constraintTop_toBottomOf="@+id/textViewKanjiTest" />
+
+            <TextView
+                android:id="@+id/textViewGrammar"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_marginStart="55dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="20dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/Grammar"
+                android:textAlignment="center"
+                android:textSize="38sp"
+                app:layout_constraintEnd_toStartOf="@+id/textViewDailyTalk"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/circleImageViewGrammar" />
+
+            <TextView
+                android:id="@+id/textViewDailyTalk"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_marginStart="25dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="55dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/dailytalk"
+                android:textAlignment="center"
+                android:textSize="38sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/textViewGrammar"
+                app:layout_constraintTop_toBottomOf="@+id/circleImageViewDailyTalk" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/circleImageViewJlptTest"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_marginStart="22dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="8dp"
+                android:elevation="10dp"
+                android:src="@drawable/jlpt_test"
+                app:layout_constraintEnd_toStartOf="@+id/circleImageViewHiraganaChart"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textViewGrammar" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/circleImageViewHiraganaChart"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="22dp"
+                android:elevation="10dp"
+                android:src="@drawable/hiragana_chart"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/circleImageViewJlptTest"
+                app:layout_constraintTop_toBottomOf="@+id/textViewDailyTalk" />
+
+            <TextView
+                android:id="@+id/textViewJlptTest"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="55dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="20dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/jlpttest"
+                android:textAlignment="center"
+                android:textSize="38sp"
+                app:layout_constraintEnd_toStartOf="@+id/textViewHiraganaChart"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/circleImageViewJlptTest" />
+
+            <TextView
+                android:id="@+id/textViewHiraganaChart"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="25dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="55dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/hiraganachart"
+                android:textAlignment="center"
+                android:textSize="38sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/textViewJlptTest"
+                app:layout_constraintTop_toBottomOf="@+id/circleImageViewHiraganaChart" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/circleImageViewKatakanaChart"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_marginStart="22dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="8dp"
+                android:elevation="10dp"
+                android:src="@drawable/katakana_chart"
+                app:layout_constraintEnd_toStartOf="@+id/circleImageViewJapanInfo"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textViewJlptTest" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/circleImageViewJapanInfo"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="22dp"
+                android:elevation="10dp"
+                android:src="@drawable/japan_info"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/circleImageViewKatakanaChart"
+                app:layout_constraintTop_toBottomOf="@+id/textViewHiraganaChart" />
+
+            <TextView
+                android:id="@+id/textViewKatakanaChart"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="55dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="20dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/katakanachart"
+                android:textAlignment="center"
+                android:textSize="38sp"
+                app:layout_constraintEnd_toStartOf="@+id/textViewJapanInfo"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/circleImageViewKatakanaChart" />
+
+            <TextView
+                android:id="@+id/textViewJapanInfo"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="25dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="55dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/japaninfo"
+                android:textAlignment="center"
+                android:textSize="38sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/textViewKatakanaChart"
+                app:layout_constraintTop_toBottomOf="@+id/circleImageViewJapanInfo" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/circleImageViewJapaneseCourseInIndonesia"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_marginStart="22dp"
+                android:layout_marginTop="28dp"
+                android:layout_marginEnd="8dp"
+                android:elevation="10dp"
+                android:src="@drawable/japanese_course_in_indonesia"
+                app:layout_constraintEnd_toStartOf="@+id/circleImageViewReferences"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textViewKatakanaChart" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/circleImageViewReferences"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="22dp"
+                android:elevation="10dp"
+                android:src="@drawable/references"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/circleImageViewJapaneseCourseInIndonesia"
+                app:layout_constraintTop_toBottomOf="@+id/textViewJapanInfo" />
+
+            <TextView
+                android:id="@+id/textViewJapaneseCourseInIndonesia"
+                android:layout_width="300dp"
+                android:layout_height="150dp"
+                android:layout_marginStart="55dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="20dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/japanesecourseinindonesia"
+                android:textAlignment="center"
+                android:textSize="38sp"
+                app:layout_constraintEnd_toStartOf="@+id/textViewReferences"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/circleImageViewJapaneseCourseInIndonesia" />
+
+            <TextView
+                android:id="@+id/textViewReferences"
+                android:layout_width="300dp"
+                android:layout_height="150dp"
+                android:layout_marginStart="25dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="55dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/references"
+                android:textAlignment="center"
+                android:textSize="38sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/textViewJapaneseCourseInIndonesia"
+                app:layout_constraintTop_toBottomOf="@+id/circleImageViewReferences" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/circleImageViewAboutDeveloper"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_marginStart="22dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="8dp"
+                android:elevation="10dp"
+                android:src="@drawable/about_developer"
+                app:layout_constraintEnd_toStartOf="@+id/circleImageViewAboutSponsor"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textViewJapaneseCourseInIndonesia" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/circleImageViewAboutSponsor"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="22dp"
+                android:elevation="10dp"
+                android:src="@drawable/about_sponsor"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/circleImageViewAboutDeveloper"
+                app:layout_constraintTop_toBottomOf="@+id/textViewReferences" />
+
+            <TextView
+                android:id="@+id/textViewAboutDeveloper"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="55dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginBottom="35dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/aboutdeveloper"
+                android:textAlignment="center"
+                android:textSize="38sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/textViewAboutSponsor"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/circleImageViewAboutDeveloper" />
+
+            <TextView
+                android:id="@+id/textViewAboutSponsor"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="25dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="55dp"
+                android:layout_marginBottom="35dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/aboutsponsor"
+                android:textAlignment="center"
+                android:textSize="38sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/textViewAboutDeveloper"
+                app:layout_constraintTop_toBottomOf="@+id/circleImageViewAboutSponsor" />
+        </android.support.constraint.ConstraintLayout>
+
+    </ScrollView>
+</android.support.v4.widget.DrawerLayout>

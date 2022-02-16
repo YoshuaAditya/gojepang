@@ -1,0 +1,256 @@
+{
+  "words": {
+    "vc0401": {
+      "kanji": "ここ",
+      "kana": "ここ",
+      "romaji": "koko",
+      "indonesia": "disini",
+      "english": "here (this place)"
+    },
+    "vc0402": {
+      "kanji": "そこ",
+      "kana": "そこ",
+      "romaji": "soko",
+      "indonesia": "disitu",
+      "english": "there (that place near you)"
+    },
+    "vc0403": {
+      "kanji": "あそこ",
+      "kana": "あそこ",
+      "romaji": "asoko",
+      "indonesia": "disitu (jauh)",
+      "english": "there (that place over there)"
+    },
+    "vc0404": {
+      "kanji": "どこ",
+      "kana": "どこ",
+      "romaji": "doko",
+      "indonesia": "dimana",
+      "english": "where"
+    },
+    "vc0405": {
+      "kanji": "こちら",
+      "kana": "こちら",
+      "romaji": "kochira",
+      "indonesia": "disini (bentuk sopan koko)",
+      "english": "here (polite form)"
+    },
+    "vc0406": {
+      "kanji": "そちら",
+      "kana": "そちら",
+      "romaji": "sochira",
+      "indonesia": "disitu (bentuk sopan soko)",
+      "english": "there (polite form soko)"
+    },
+    "vc0407": {
+      "kanji": "あちら",
+      "kana": "あちら",
+      "romaji": "achira",
+      "indonesia": "disitu (bentuk sopan asoko)",
+      "english": "there (polite form asoko)"
+    },
+    "vc0408": {
+      "kanji": "どちら",
+      "kana": "どちら",
+      "romaji": "dochira",
+      "indonesia": "dimana (bentuk sopan doko)",
+      "english": "where (polite form)"
+    },
+    "vc0409": {
+      "kanji": "教室",
+      "kana": "きょうしつ",
+      "romaji": "kyoushitsu",
+      "indonesia": "ruang kelas",
+      "english": "classroom"
+    },
+    "vc0410": {
+      "kanji": "食堂",
+      "kana": "しょくどう",
+      "romaji": "shokudou",
+      "indonesia": "kantin",
+      "english": "dining hall canteen"
+    },
+    "vc0411": {
+      "kanji": "事務所",
+      "kana": "じむしょ",
+      "romaji": "jimusho",
+      "indonesia": "kantor",
+      "english": "office"
+    },
+    "vc0412": {
+      "kanji": "会議室",
+      "kana": "かいぎしつ",
+      "romaji": "kaigishitsu",
+      "indonesia": "ruang rapat",
+      "english": "conference room"
+    },
+    "vc0413": {
+      "kanji": "受付",
+      "kana": "うけつけ",
+      "romaji": "uketsuke",
+      "indonesia": "meja tamu, meja informasi",
+      "english": "reception desk"
+    },
+    "vc0414": {
+      "kanji": "ロビー",
+      "kana": "ロビー",
+      "romaji": "robii",
+      "indonesia": "lobi",
+      "english": "lobby"
+    },
+    "vc0415": {
+      "kanji": "部屋",
+      "kana": "へや",
+      "romaji": "heya",
+      "indonesia": "kamar",
+      "english": "room"
+    },
+    "vc0416": {
+      "kanji": "トイレ（お手洗い）",
+      "kana": "トイレ",
+      "romaji": "toire (otearai)",
+      "indonesia": "toilet",
+      "english": "toilet, rest room"
+    },
+    "vc0417": {
+      "kanji": "階段",
+      "kana": "かいだん",
+      "romaji": "kaidan",
+      "indonesia": "tangga",
+      "english": "staircase"
+    },
+    "vc0418": {
+      "kanji": "エレベーター",
+      "kana": "エレベーター",
+      "romaji": "erebeetaa",
+      "indonesia": "lift",
+      "english": "elevator, lift"
+    },
+    "vc0419": {
+      "kanji": "エスカレーター",
+      "kana": "エスカレーター",
+      "romaji": "esukereetaa",
+      "indonesia": "eskalator",
+      "english": "escalator"
+    },
+    "vc0420": {
+      "kanji": "お国",
+      "kana": "おくに",
+      "romaji": "okuni",
+      "indonesia": "negara",
+      "english": "country"
+    },
+    "vc0421": {
+      "kanji": "会社",
+      "kana": "かいしゃ",
+      "romaji": "kaisha",
+      "indonesia": "perusahaan",
+      "english": "company"
+    },
+    "vc0422": {
+      "kanji": "家",
+      "kana": "うち",
+      "romaji": "uchi",
+      "indonesia": "rumah",
+      "english": "house home"
+    },
+    "vc0423": {
+      "kanji": "電話",
+      "kana": "でんわ",
+      "romaji": "denwa",
+      "indonesia": "telepon",
+      "english": "telephone"
+    },
+    "vc0424": {
+      "kanji": "靴",
+      "kana": "くつ",
+      "romaji": "kutsu",
+      "indonesia": "sepatu",
+      "english": "shoes"
+    },
+    "vc0425": {
+      "kanji": "ネクタイ",
+      "kana": "ネクタイ",
+      "romaji": "nekutai",
+      "indonesia": "dasi",
+      "english": "necktie"
+    },
+    "vc0426": {
+      "kanji": "ワイン",
+      "kana": "ワイン",
+      "romaji": "wain",
+      "indonesia": "wine",
+      "english": "wine"
+    },
+    "vc0427": {
+      "kanji": "たばこ",
+      "kana": "たばこ",
+      "romaji": "tabako",
+      "indonesia": "rokok",
+      "english": "tobacco, cigarette"
+    },
+    "vc0428": {
+      "kanji": "売り場",
+      "kana": "うりば",
+      "romaji": "uriba",
+      "indonesia": "tempat penjualan",
+      "english": "department counter"
+    },
+    "vc0429": {
+      "kanji": "地下",
+      "kana": "ちか",
+      "romaji": "chika",
+      "indonesia": "bawah tanah",
+      "english": "basement"
+    },
+    "vc0430": {
+      "kanji": "ー階",
+      "kana": "ーかい",
+      "romaji": "-kai",
+      "indonesia": "lantai -",
+      "english": "-th floor"
+    },
+    "vc0431": {
+      "kanji": "何階",
+      "kana": "なんかい",
+      "romaji": "nankai",
+      "indonesia": "lantai berapa",
+      "english": "what floor"
+    },
+    "vc0432": {
+      "kanji": "ー円",
+      "kana": "ーえん",
+      "romaji": "-en",
+      "indonesia": "yen",
+      "english": "yen"
+    },
+    "vc0433": {
+      "kanji": "いくら",
+      "kana": "いくら",
+      "romaji": "ikura",
+      "indonesia": "berapa harganya",
+      "english": "how much"
+    },
+    "vc0434": {
+      "kanji": "百",
+      "kana": "ひゃく",
+      "romaji": "hyaku",
+      "indonesia": "seratus",
+      "english": "hundred"
+    },
+    "vc0435": {
+      "kanji": "千",
+      "kana": "せん",
+      "romaji": "sen",
+      "indonesia": "seribu",
+      "english": "thousand"
+    },
+    "vc0436": {
+      "kanji": "万",
+      "kana": "まん",
+      "romaji": "man",
+      "indonesia": "sepuluh ribu",
+      "english": "ten thousand"
+    }
+  }
+}

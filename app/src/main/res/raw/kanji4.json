@@ -1,0 +1,161 @@
+{
+  "explanationEnglish": "-",
+  "explanationIndonesia": "-",
+  "kanjis": {
+    "vc0401": {
+      "vc0401_0": {
+        "kanji": "女",
+        "indonesia": "perempuan, wanita",
+        "english": "women, female",
+        "hiraganakun": "おんな",
+        "hiraganaon": "ジョ",
+        "romajikun": "onna",
+        "romajion": "-"
+      },
+      "vc0401_1": {
+        "kanji": "彼女",
+        "indonesia": "pacar dia (pr)",
+        "english": "she",
+        "hiraganakun": "かのじょ",
+        "hiraganaon": "-",
+        "romajikun": "kanojo",
+        "romajion": "-"
+      },
+      "vc0401_2": {
+        "kanji": "女の人",
+        "indonesia": "orang perempuan",
+        "english": "a woman",
+        "hiraganakun": "おんなのひと",
+        "hiraganaon": "-",
+        "romajikun": "onnnanohito",
+        "romajion": "-"
+      }
+    },
+    "vc0402": {
+      "vc0402_0": {
+        "kanji": "学",
+        "indonesia": "belajar",
+        "english": "study",
+        "hiraganakun": "まなーぶ",
+        "hiraganaon": "ガク, ガッー",
+        "romajikun": "mana-bu",
+        "romajion": "gaku, gakk-"
+      },
+      "vc0402_1": {
+        "kanji": "学生",
+        "indonesia": "siswa",
+        "english": "a student",
+        "hiraganakun": "がくせい",
+        "hiraganaon": "-",
+        "romajikun": "gakusei",
+        "romajion": "-"
+      },
+      "vc0402_2": {
+        "kanji": "学校",
+        "indonesia": "sekolah",
+        "english": "a school",
+        "hiraganakun": "がっこう",
+        "hiraganaon": "-",
+        "romajikun": "gakkou",
+        "romajion": "-"
+      },
+      "vc0402_3": {
+        "kanji": "大学",
+        "indonesia": "universitas",
+        "english": "a university",
+        "hiraganakun": "だいがく",
+        "hiraganaon": "-",
+        "romajikun": "daigaku",
+        "romajion": "-"
+      }
+    },
+    "vc0403": {
+      "vc0403_0": {
+        "kanji": "生",
+        "indonesia": "hidup, lahir",
+        "english": "live, birth",
+        "hiraganakun": "いーきる, うーまれる",
+        "hiraganaon": "セイ",
+        "romajikun": "i-kiru, u-mareru",
+        "romajion": "-"
+      },
+      "vc0403_1": {
+        "kanji": "生きる",
+        "indonesia": "hidup",
+        "english": "to live",
+        "hiraganakun": "いきる",
+        "hiraganaon": "-",
+        "romajikun": "ikiru",
+        "romajion": "-"
+      },
+      "vc0403_2": {
+        "kanji": "先生",
+        "indonesia": "guru",
+        "english": "a teacher",
+        "hiraganakun": "せんせい",
+        "hiraganaon": "-",
+        "romajikun": "sensei",
+        "romajion": "-"
+      },
+      "vc0403_3": {
+        "kanji": "生まれる",
+        "indonesia": "lahir",
+        "english": "to be born",
+        "hiraganakun": "うまれる",
+        "hiraganaon": "-",
+        "romajikun": "umareru",
+        "romajion": "-"
+      },
+      "vc0403_4": {
+        "kanji": "学生",
+        "indonesia": "siswa",
+        "english": "a student",
+        "hiraganakun": "がくせい",
+        "hiraganaon": "-",
+        "romajikun": "gakusei",
+        "romajion": "-"
+      }
+    },
+    "vc0404": {
+      "vc0404_0": {
+        "kanji": "先",
+        "indonesia": "sebelumnya, mendahului",
+        "english": "previous, foregoing",
+        "hiraganakun": "さき",
+        "hiraganaon": "セン",
+        "romajikun": "saki",
+        "romajion": "sen"
+      },
+      "vc0404_1": {
+        "kanji": "先月",
+        "indonesia": "bulan lalu",
+        "english": "last month",
+        "hiraganakun": "せんげつ",
+        "hiraganaon": "-",
+        "romajikun": "sengetsu",
+        "romajion": "-"
+      }
+    },
+    "vc0405": {
+      "vc0405_0": {
+        "kanji": "私",
+        "indonesia": "saya",
+        "english": "i",
+        "hiraganakun": "わたし, わたしくし",
+        "hiraganaon": "-",
+        "romajikun": "watashi, watashikushi",
+        "romajion": "-"
+      },
+      "vc0405_1": {
+        "kanji": "私立大学",
+        "indonesia": "universitas pribadi",
+        "english": "a private university",
+        "hiraganakun": "しりつだいがく",
+        "hiraganaon": "-",
+        "romajikun": "shiritsudaigaku",
+        "romajion": "-"
+      }
+    }
+  }
+}
+

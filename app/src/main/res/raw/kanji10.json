@@ -1,0 +1,161 @@
+{
+  "explanationEnglish": "-",
+  "explanationIndonesia": "-",
+  "kanjis": {
+    "vc1001": {
+      "vc1001_0": {
+        "kanji": "明",
+        "indonesia": "terang, cahaya",
+        "english": "bright, light",
+        "hiraganakun": "あかーるい, あーける",
+        "hiraganaon": "メイ",
+        "romajikun": "aka-rui, a-keru",
+        "romajion": "-"
+      },
+      "vc1001_1": {
+        "kanji": "明日",
+        "indonesia": "besok",
+        "english": "tomorrow",
+        "hiraganakun": "あす, あした, みょうにち",
+        "hiraganaon": "-",
+        "romajikun": "asu, ashita, myounichi",
+        "romajion": "-"
+      },
+      "vc1001_2": {
+        "kanji": "明ける",
+        "indonesia": "senja",
+        "english": "dawn",
+        "hiraganakun": "あける",
+        "hiraganaon": "-",
+        "romajikun": "akeru",
+        "romajion": "-"
+      },
+      "vc1001_3": {
+        "kanji": "説明する",
+        "indonesia": "menjelaskan",
+        "english": "to explain",
+        "hiraganakun": "せつめいする",
+        "hiraganaon": "-",
+        "romajikun": "setsumeisuru",
+        "romajion": "-"
+      }
+    },
+    "vc1002": {
+      "vc1002_0": {
+        "kanji": "休",
+        "indonesia": "istirahat",
+        "english": "rest",
+        "hiraganakun": "やすーむ",
+        "hiraganaon": "キュウ",
+        "romajikun": "yasu-mu",
+        "romajion": "kyuu"
+      },
+      "vc1002_1": {
+        "kanji": "休日",
+        "indonesia": "liburan",
+        "english": "a holiday",
+        "hiraganakun": "きゅうじつ",
+        "hiraganaon": "-",
+        "romajikun": "kyuujitsu",
+        "romajion": "-"
+      },
+      "vc1002_2": {
+        "kanji": "休み",
+        "indonesia": "istirahat, liburan",
+        "english": "a break, a holiday",
+        "hiraganakun": "やすみ",
+        "hiraganaon": "-",
+        "romajikun": "yasumi",
+        "romajion": "-"
+      }
+    },
+    "vc1003": {
+      "vc1003_0": {
+        "kanji": "体",
+        "indonesia": "badan",
+        "english": "body",
+        "hiraganakun": "からだ",
+        "hiraganaon": "タイ",
+        "romajikun": "karada",
+        "romajion": "tai"
+      },
+      "vc1003_1": {
+        "kanji": "体育",
+        "indonesia": "pendidikan jasmani",
+        "english": "physical education",
+        "hiraganakun": "たいいく",
+        "hiraganaon": "-",
+        "romajikun": "taiiku",
+        "romajion": "-"
+      },
+      "vc1003_2": {
+        "kanji": "体力",
+        "indonesia": "kekuatan jasmani",
+        "english": "physical strength",
+        "hiraganakun": "たいりょく",
+        "hiraganaon": "-",
+        "romajikun": "tairyoku",
+        "romajion": "-"
+      }
+    },
+    "vc1004": {
+      "vc1004_0": {
+        "kanji": "好",
+        "indonesia": "cinta, suka, favorit",
+        "english": "love, like, favorite",
+        "hiraganakun": "すーき",
+        "hiraganaon": "コウ",
+        "romajikun": "su-ki",
+        "romajion": "kou"
+      },
+      "vc1004_1": {
+        "kanji": "好物",
+        "indonesia": "salah satu makanan favorit",
+        "english": "one's favorite food",
+        "hiraganakun": "こうぶつ",
+        "hiraganaon": "-",
+        "romajikun": "koubutsu",
+        "romajion": "-"
+      }
+    },
+    "vc1005": {
+      "vc1005_0": {
+        "kanji": "男",
+        "indonesia": "laki-laki",
+        "english": "man, male",
+        "hiraganakun": "おとこ",
+        "hiraganaon": "ダン, ナン",
+        "romajikun": "otoko",
+        "romajion": "dan, nan"
+      },
+      "vc1005_1": {
+        "kanji": "男子学生",
+        "indonesia": "siswa laki-laki",
+        "english": "a male student",
+        "hiraganakun": "だんしがくせい",
+        "hiraganaon": "-",
+        "romajikun": "danshigakusei",
+        "romajion": "-"
+      },
+      "vc1005_2": {
+        "kanji": "男の子",
+        "indonesia": "anak laki-laki",
+        "english": "a boy",
+        "hiraganakun": "おとこのこ",
+        "hiraganaon": "-",
+        "romajikun": "otokonoko",
+        "romajion": "-"
+      },
+      "vc1005_3": {
+        "kanji": "長男",
+        "indonesia": "anak tertua",
+        "english": "the eldest son",
+        "hiraganakun": "ちょうなん",
+        "hiraganaon": "-",
+        "romajikun": "chounan",
+        "romajion": "-"
+      }
+    }
+  }
+}
+

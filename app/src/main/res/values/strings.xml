@@ -1,0 +1,358 @@
+<resources>
+    <string name="app_name">GO Jepang</string>
+    <string name="sponsor">Sponsored by:</string>
+    <string name="investor">Red Flame University</string>
+    <string name="yokoso">ようこそ！</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="phone">Mobile Phone Number</string>
+    <string name="password">Password</string>
+    <string name="passwordConfirmation">Password Confirmation</string>
+    <string name="age">Age</string>
+    <string name="welcome">Welcome to Go Jepang</string>
+    <string name="register">Register</string>
+    <string name="login">LOGIN</string>
+    <string name="newusertext">New to Go Jepang?</string>
+    <string name="createaccount">Create your account</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="languagequestion">What language do you want?</string>
+    <string name="languageenglish">English</string>
+    <string name="languageindonesia">Bahasa Indonesia</string>
+    <string name="languagesetitlater">"You can set it later"</string>
+    <string name="editprofile">Edit profile</string>
+    <string name="editlanguage">Edit language</string>
+    <string name="editcharacters">Edit characters</string>
+    <string name="notification">Notification</string>
+    <string name="changepassword">Change password</string>
+    <string name="shareourapp">Share our app</string>
+    <string name="reviewus">Review us</string>
+    <string name="logout">Logout</string>
+    <string name="setting">Setting</string>
+    <string name="konnichiwa">Konnichiwa</string>
+
+    <string name="login_with">Login as :</string>
+    <string name="fill_data">Please fill the data</string>
+    <string name="password_mismatch">Password didn\'t match</string>
+    <string name="test">english</string>
+    <string name="lesson">Lesson</string>
+    <string name="card">Card</string>
+    <string name="cards">cards</string>
+    <string name="kanji">Kanji</string>
+    <string name="kanjitest">Kanji Test</string>
+    <string name="Grammar">Grammar</string>
+    <string name="dailytalk">Daily Talk</string>
+    <string name="jlpttest">JLPT Test</string>
+    <string name="hiraganachart">Hiragana Chart</string>
+    <string name="katakanachart">Katakana Chart</string>
+    <string name="japaninfo">Japan Info</string>
+    <string name="japanesecourseinindonesia">Japanese course in Indonesia</string>
+    <string name="references">References</string>
+    <string name="aboutdeveloper">About Developer</string>
+    <string name="inocen">Inocen (Inovasi Cendekia Bangsa)</string>
+    <string name="seedeveloperwebsite">see Inovasi Cendekia Bangsa website</string>
+    <string name="aboutsponsor">About Sponsor</string>
+    <string name="kelebihaninocen">STRENGTH</string>
+    <string name="sponsorwebsite">see Naoyuki website</string>
+    <string name="kelebihaninocen1">1. From Indonesia to Indonesia.</string>
+    <string name="kelebihaninocen2">2. Have representatives office in Indonesia and Japan</string>
+    <string name="kelebihaninocen3">3. Founded by alumni and professionals who have long lived in Japan (more than 14 years living in Japan)</string>
+    <string name="kelebihaninocen4">4. Having international cooperation (in collaboration with companies in Japan and supported by Indonesian students abroad)</string>
+    <string name="developerexplanation1">Inovasi Cendekia Bangsa or abbreviated as Inocen is startup with a social mission to help collaboration between Indonesia and Japan.</string>
+    <string name="developerexplanation2">And one way to help this collaboration is to improve Japanese language skills for Indonesians both in quality and quantity.</string>
+    <string name="developerexplanation3">Go Jepang© is made to help friends in learning Japanese. With this Go Japan application for learning Japanese will be easier, cheaper and more fun.</string>
+    <string name="chapter1">Chapter 1</string>
+    <string name="chapter2">Chapter 2</string>
+    <string name="chapter3">Chapter 3</string>
+    <string name="chapter4">Chapter 4</string>
+    <string name="chapter5">Chapter 5</string>
+    <string name="chapter6">Chapter 6</string>
+    <string name="chapter7">Chapter 7</string>
+    <string name="chapter8">Chapter 8</string>
+    <string name="chapter9">Chapter 9</string>
+    <string name="chapter10">Chapter 10</string>
+    <string name="chaptertitle2">Introduction</string>
+    <string name="chaptertitle3">Object</string>
+    <string name="chaptertitle4">Places</string>
+    <string name="chaptertitle5">Time</string>
+    <string name="chaptertitle6">Adverb</string>
+    <string name="chaptertitle7">Verb Intro</string>
+    <string name="chaptertitle8">Verb</string>
+    <string name="chaptertitle9">Adjective</string>
+    <string name="chaptertitle10">Hobbies</string>
+    <string name="chaptertitle1">Greetings</string>
+    <string name="charactersettingquestion">Which one do you prefer? Learning by:</string>
+    <string name="characterromaji">Alphabet</string>
+    <string name="characterkana">Kana</string>
+    <string name="characterkanji">Kanji</string>
+    <string name="lessonintrospeech">In this chapter, you will learn these words:</string>
+    <string name="buttonLessonIntroStart">Lets start!</string>
+    <string name="newcard">NEW CARD!</string>
+    <string name="kanjiintro">Kanji</string>
+    <string name="levelkanji1">Level 1</string>
+    <string name="levelkanji2">Level 2</string>
+    <string name="levelkanji3">Level 3</string>
+    <string name="levelkanji4">Level 4</string>
+    <string name="levelkanji5">Level 5</string>
+    <string name="levelkanji6">Level 6</string>
+    <string name="levelkanji7">Level 7</string>
+    <string name="levelkanji8">Level 8</string>
+    <string name="levelkanji9">Level 9</string>
+    <string name="levelkanji10">Level 10</string>
+    <string name="levelkanji11">Level 11</string>
+    <string name="levelkanji12">Level 12</string>
+    <string name="levelkanji13">Level 13</string>
+    <string name="levelkanji14">Level 14</string>
+    <string name="levelkanji15">Level 15</string>
+    <string name="levelkanji16">Level 16</string>
+    <string name="levelkanji17">Level 17</string>
+    <string name="levelkanji18">Level 18</string>
+    <string name="levelkanji19">Level 19</string>
+    <string name="levelkanji20">Level 20</string>
+    <string name="levelkanji21">Level 21</string>
+    <string name="levelkanji22">Level 22</string>
+    <string name="levelkanji23">Level 23</string>
+    <string name="levelkanji24">Level 24</string>
+    <string name="levelkanji25">Level 25</string>
+    <string name="levelkanji26">Level 26</string>
+    <string name="levelkanji27">Level 27</string>
+    <string name="levelkanji28">Level 28</string>
+    <string name="levelkanji29">Level 29</string>
+    <string name="levelkanji30">Level 30</string>
+    <string name="levelkanji31">Level 31</string>
+    <string name="levelkanji32">Level 32</string>
+    <string name="levelkanji33">Level 33</string>
+    <string name="levelkanji34">Level 34</string>
+    <string name="levelkanji35">Level 35</string>
+    <string name="levelkanji36">Level 36</string>
+    //kanji test menu
+    <string name="kanjitesttitle">Kanji Test</string>
+    <string name="kanjitestlevel1">Level 1-10</string>
+    <string name="kanjitestlevel11">Level 11-20</string>
+    <string name="kanjitestlevel21">Level 21-30</string>
+    <string name="kanjitestlevel31">Level 31-40</string>
+    <string name="kanjitestlevel41">Level 41-50</string>
+    //grammar　pattern 1
+    <string name="grammar">Grammar</string>
+    <string name="samplesentence">Sample sentences:</string>
+    <string name="pattern1">Pattern 1</string>
+    <string name="pattern1kana">N + は + N + です</string>
+    <string name="pattern1romaji">N + Wa + N + Desu</string>
+    <string name="pattern1explanationkana">The particle は follows the topic the speaker wants to talk about. Therefore, は is often called topic marking particle.</string>
+    <string name="pattern1explanationromaji">The particle は follows the topic the speaker wants to talk about. Therefore, は is often called topic marking particle.</string>
+    <string name="pattern1notekana">Note : the particle は is read わ.</string>
+    <string name="pattern1noteromaji">Note : the particle ha is read wa.</string>
+    <string name="pattern1sample1kanji">1. 私は田中です。</string>
+    <string name="pattern1sample1kana">1. わたしはやまだです。</string>
+    <string name="pattern1sample1romaji">1. watashi wa yamada desu</string>
+    <string name="pattern1sample1meaning">I am Tanaka.</string>
+    <string name="pattern1sample2kanji">2. 私は学生です。</string>
+    <string name="pattern1sample2kana">2. わたしはがくせいです。</string>
+    <string name="pattern1sample2romaji">2. watashi wa gakusei desu</string>
+    <string name="pattern1sample2meaning">I am a student.</string>
+    //grammar pattern 2
+    <string name="pattern2">Pattern 2</string>
+    <string name="pattern2kana">N + は + N + じゃ ありません</string>
+    <string name="pattern2romaji">N + Wa + N + Ja Arimasen</string>
+    <string name="pattern2explanationkana">じゃありません is the negative form of です. </string>
+    <string name="pattern2explanationromaji">Ja arimasen is the negative form of desu. </string>
+    <string name="pattern2sample1kanji">1. 私は山下じゃありません。</string>
+    <string name="pattern2sample1kana">1. わたしはやましたじゃありません</string>
+    <string name="pattern2sample1romaji">1, Watashi wa yamashita ja arimasen</string>
+    <string name="pattern2sample1meaning">I am NOT Yamashita.</string>
+    <string name="pattern2sample2kanji">2. 私は学生じゃありません。</string>
+    <string name="pattern2sample2romaji">2. Watashi wa gakusei ja arimasen</string>
+    <string name="pattern2sample2kana">2. わたしはがくせいじゃありません。</string>
+    <string name="pattern2sample2meaning">I am NOT a student.</string>
+    //grammar pattern 3
+    <string name="pattern3">Pattern 3</string>
+    <string name="pattern3kana">sentence + か</string>
+    <string name="pattern3romaji">sentence + ka</string>
+    <string name="pattern3explanationkana">The particle か has many functions.</string>
+    <string name="pattern3explanationromaji">The particle ka has many functions.</string>
+    <string name="pattern3explanation1">1. Final interrogative particle, similar to a question mark "?"</string>
+    <string name="pattern3explanation2">2. particle marking alternatives in a list; "or"</string>
+    <string name="pattern3explanation3">3. whether (or not)</string>
+    <string name="pattern3sample1kanji">お元気ですか。</string>
+    <string name="pattern3sample1kana">おげんきですか</string>
+    <string name="pattern3sample1romaji">Ogenki desuka</string>
+    <string name="pattern3sample1meaning">How are you?</string>
+    <string name="pattern3sample2kanji">オレンジか、リンゴか。</string>
+    <string name="pattern3sample2kana">オレンジか、リンゴか。</string>
+    <string name="pattern3sample2romaji">Orenjika, ringoka.</string>
+    <string name="pattern3sample2meaning">orange or apple?</string>
+    <string name="pattern3sample3kanji">行くか知らない。</string>
+    <string name="pattern3sample3kana">いくかわからない。</string>
+    <string name="pattern3sample3romaji">Ikuka wakaranai</string>
+    <string name="pattern3sample3meaning">I do not know whether he will go.</string>
+    //grammar pattern 3 part 2
+    <string name="pattern3part2">Pattern 3 (part 2)</string>
+    <string name="pattern3explanation4">4. Indication of doubt</string>
+    <string name="pattern3sample4kanji">行くかと思いますが。</string>
+    <string name="pattern3sample4kana">いくかとおもいますが</string>
+    <string name="pattern3sample4romaji">Ikuka to omoimasuga</string>
+    <string name="pattern3sample4meaning">I think he will go (but I am not sure).</string>
+    //grammar pattern 4
+    <string name="pattern4">Pattern 4</string>
+    <string name="pattern4kana">N + も</string>
+    <string name="pattern4romaji">N + Mo</string>
+    <string name="pattern4explanationkana">Particle も is added after a topic instead of は when the statement about the topic is the same as the previous topic; similar to "also".</string>
+    <string name="pattern4explanationromaji">Particle mo is added after a topic instead of wa when the statement about the topic is the same as the previous topic; similar to "also".</string>
+    <string name="pattern4sample1kanji">田中さんは学生です。</string>
+    <string name="pattern4sample1kana">たなかさんはがくせいです</string>
+    <string name="pattern4sample1romaji">Tanaka-san wa gakusei desu</string>
+    <string name="pattern4sample1meaning">Mr. Tanaka is a student.</string>
+    <string name="pattern4sample2kanji">山下さんも学生です。</string>
+    <string name="pattern4sample2kana">やましたさんもがくせいです</string>
+    <string name="pattern4sample2romaji">Yamashita-san mo gakusei desu</string>
+    <string name="pattern4sample2meaning">Mr. Yamashita is also a student.</string>
+    //grammar pattern 5
+    <string name="pattern5">Pattern 5</string>
+    <string name="pattern5kana">N + の + N</string>
+    <string name="pattern5romaji">N + No + N</string>
+    <string name="pattern5explanationkana">Particle の is used to connect two noun.</string>
+    <string name="pattern5explanationromaji">Particle no is used to connect two noun.</string>
+    <string name="pattern5sample1kanji">田中さんはサクラ大学の学生です。</string>
+    <string name="pattern5sample1kana">たなかさんはサクラだいがくのがくせいです</string>
+    <string name="pattern5sample1romaji">Tanaka-san wa sakura daigaku no gakusei desu</string>
+    <string name="pattern5sample1meaning">Mr. Tanaka is a Sakura University student.</string>
+    <string name="pattern5sample2kanji">これは私の本です。</string>
+    <string name="pattern5sample2kana">これはわたしのほんです</string>
+    <string name="pattern5sample2romaji">Kore wa watashino hon desu</string>
+    <string name="pattern5sample2meaning">This is my book.</string>
+
+    <string name="welldone">WELL DONE!</string>
+    <string name="toobad">Too Bad</string>
+    <string name="yourscoreis">Your Score is:</string>
+    <string name="continuechapter">Now you can continue to chapter </string>
+    <string name="postponedchapter">Your score must above 70 to continue learning in chapter </string>
+    <string name="finishchapter">You have finished the chapter </string>
+    <string name="failedchapter">You do not pass the chapter </string>
+    <string name="thanksponsor">Thanks to our sponsor!</string>
+    <string name="sponsorname">Naoyuki Academic Center</string>
+    <string name="sponsorexplanation1">Naoyuki Academic Center was first introduced in October 2017 by the founders who are alumni of Japanese Universities and professionals who have lived in Japan for a long time. After getting extraordinary experience from Japan, the founders wanted to help other friends to go to Japan. The founders tried to solve the obstacles faced by students to go to Japan, such as: lack of information obtained by students in Indonesia, lack of confidence in students to Japan, and lack of foreign language skills, especially Japanese.
+    </string>
+    <string name="address">ADDRESS</string>
+    <string name="addressindo">Jl.Veteran 10-11, Gd Inbis Lt 4, Univ Brawijaya, Malang.</string>
+    <string name="addressjapan">Aichi ken, Nishio shi, Yonezu cho, Kitaura 75-1, Japan</string>
+    <string name="malang">Malang</string>
+    <string name="yogyakarta">Yogyakarta</string>
+    <string name="bandung">Bandung</string>
+    <string name="surabaya">Surabaya / Sidoarjo</string>
+    <string name="othercities">Other cities</string>
+    <string name="othercitieslocation">Will be updates in the next features</string>
+    <string name="naoyukiacademiccenter">Naoyuki Academic Center</string>
+    <string name="japaneseenglishcafe">Japanese Café (JEC)</string>
+    <string name="easyjapanese">Easy Japanese</string>
+    <string name="easyjapaneseprivate">Easy Japanese - Private</string>
+    <string name="naoyukiacademiccenterphone">+62811 36969 97</string>
+    <string name="japaneseenglishcafephone">+6281 3567 8358</string>
+    <string name="easyjapanesephone">+62811 3777 540</string>
+    <string name="easyjapaneseprivatebandungphone">+62858 7925 1994</string>
+    <string name="easyjapaneseprivatesurabayaphone">+62858 7925 1994</string>
+    <string name="naoyukiacademiccenterlocation">Jl. Veteran no 10-11, Gedung Inbis Lt 4, Universitas Brawijaya, Malang.</string>
+    <string name="japaneseenglishcafelocation">Jl. Jakarta no 20, Mom milks café.</string>
+    <string name="easyjapaneselocation">Jl. Ring Road Selatan, no 66. Gamping Kidul, Sleman.</string>
+    <string name="easyjapaneseprivatebandunglocation">Griya Cempaka Arum Blok D3 no 3, Rancanumpang, Gedebage, Bandung.</string>
+    <string name="easyjapaneseprivatesurabayalocation">Perumahan Delta Mandala 1 no 12, Semambung, Gedangan, Sidoarjo.</string>
+    <string name="recommendationplace">RECOMMENDATION PLACES</string>
+    <string name="tolearnjapaneseinindonesia">To Learn Japanese in Indonesia</string>
+    <string name="sponsorexplanation2">Therefore the founders formed a forum called Naoyuki Academic Center. Naoyuki is taken from Japanese which has the implicit meaning of "honesty and happiness" in the hope of being able to realize the dream of Indonesian students to Japan, either through study, internship, study tour, or work as a professional.</string>
+    <string name="sponsorprogram1">1.  English Course</string>
+    <string name="sponsorprogram2">2.  Internship in Japan</string>
+    <string name="sponsorprogram3">3.  Study to Japan</string>
+    <string name="sponsorprogram4">4.  Study Tour</string>
+    <string name="sponsorprogram5">5.  Travelling in Japan</string>
+    <string name="sponsorprogram6">6.  Education Seminar</string>
+    <string name="edufree">make this education free</string>
+    <string name="seemoresponsor">see more about University</string>
+
+
+    <string name="clear_previous_chapter_first">Clear previous chapter first</string>
+    <string name="clear_previous_kanji_first">Clear previous kanji first</string>
+    //tutorial penggunaan aplikasi
+    <string name="titletutorialsound">Sound button</string>
+    <string name="titletutorialinfo">Information button</string>
+    <string name="contenttutorialsound1">to know how to pronounce the word,</string>
+    <string name="contenttutorialclick">you can click this button</string>
+    <string name="contenttutorialinfo1">if you do not understand the picture meaning</string>
+    //card list
+    <string name="cardlistcongratulation">Congratulations!</string>
+    <string name="cardlistyouhavecollecting">You have collected</string>
+    <string name="cardlistcards">Cards</string>
+    <string name="phone_more_9">Phone number must have more than 9 numbers</string>
+    <string name="coming_soon">Coming soon</string>
+    //jlpt
+    <string name="n5">JLPT N5</string>
+    <string name="n4">JLPT N4</string>
+    <string name="n3">JLPT N3</string>
+    <string name="mojigoi">Moji Goi(Grammar)</string>
+    <string name="bunpoudokkai">Bunpou Dokkai(Reading)</string>
+    <string name="choukai">Choukai(Listening)</string>
+
+    <!--string dibawah gk perlu diubah ke indo, soalnya buat save di storage lokal-->
+    <string name="sharedPrefCharacter" translatable="false">com.example.gojepang.PREFERENCE_CHARACTER</string>
+    <string name="sharedPrefLanguage" translatable="false">com.example.gojepang.LANGUAGE</string>
+    <string name="chapter_title" translatable="false">chapterTitle</string>
+    <string name="bundle_intro" translatable="false">bundleIntro</string>
+    <string name="array_list_english" translatable="false">arrayListEnglish</string>
+    <string name="array_list_indonesia" translatable="false">arrayListIndonesia</string>
+    <string name="array_list_romaji" translatable="false">arrayListRomaji</string>
+    <string name="array_list_kana" translatable="false">arrayListKana</string>
+    <string name="array_list_kanji" translatable="false">arrayListKanji</string>
+    <string name="text_paused_cellular" translatable="false">Would you like to enable downloading over cellular connections? Depending on your data plan, this may cost you money.</string>
+    <string name="text_paused_cellular_2" translatable="false">If you choose not to enable downloading over cellular connections, the download will automatically resume when wi-fi is available.</string>
+    <string name="text_button_resume_cellular" translatable="false">Resume download</string>
+    <string name="text_button_wifi_settings" translatable="false">Wi-Fi settings</string>
+    <string name="text_verifying_download" translatable="false">Verifying Download</string>
+    <string name="text_validation_complete" translatable="false">XAPK File Validation Complete.  Select OK to exit.</string>
+    <string name="text_validation_failed" translatable="false">XAPK File Validation Failed.</string>
+    <string name="text_button_pause" translatable="false">Pause Download</string>
+    <string name="text_button_resume" translatable="false">Resume Download</string>
+    <string name="text_button_cancel" translatable="false">Cancel</string>
+    <string name="text_button_cancel_verify" translatable="false">Cancel Verification</string>
+    <string name="lesson_intro_selected" translatable="false">LessonIntroSelectedChapter</string>
+    <string name="lesson_intro_chap_title" translatable="false">lesson_intro_chap_title</string>
+    <string name="result_last_chapter" translatable="false">result_last_chapter</string>
+    <string name="result_last_kanji" translatable="false">result_last_kanji</string>
+    <string name="result_last_kanji_test" translatable="false">result_last_kanji_test</string>
+    <string name="kanji_level" translatable="false">kanji_level</string>
+    <string name="bundle_intro_kanji" translatable="false">bundle_intro_kanji</string>
+    <string name="bundle_test_kanji_menu_adapter" translatable="false">bundle_test_kanji_menu_adapter</string>
+    <string name="tutorial" translatable="false">com.example.gojepang.TUTORIAL</string>
+    <string name="kanji_intro_total_kanji" translatable="false">kanji_intro_total_kanji</string>
+    <string name="kanji_intro_selected_level" translatable="false">kanji_intro_selected_level</string>
+    <string name="kanji_intro_level_number" translatable="false">kanji_intro_level_number</string>
+    <string name="kanji_test_level_number" translatable="false">kanji_test_level_number</string>
+
+
+    <string name="notification_download_complete" translatable="false">Download complete</string>
+    <string name="notification_download_failed" translatable="false">Download unsuccessful</string>
+    <string name="state_unknown" translatable="false">Starting..."</string>
+    <string name="state_idle" translatable="false">Waiting for download to start</string>
+    <string name="state_fetching_url" translatable="false">Looking for resources to download</string>
+    <string name="state_connecting" translatable="false">Connecting to the download server</string>
+    <string name="state_downloading" translatable="false">Downloading resources</string>
+    <string name="state_completed" translatable="false">Download finished</string>
+    <string name="state_paused_network_unavailable" translatable="false">Download paused because no network is available</string>
+    <string name="state_paused_network_setup_failure" translatable="false">Download paused. Test a website in browser</string>
+    <string name="state_paused_by_request" translatable="false">Download paused</string>
+    <string name="state_paused_wifi_unavailable" translatable="false">Download paused because wifi is unavailable</string>
+    <string name="state_paused_wifi_disabled" translatable="false">Download paused because wifi is disabled</string>
+    <string name="state_paused_roaming" translatable="false">Download paused because you are roaming</string>
+    <string name="state_paused_sdcard_unavailable" translatable="false">Download paused because the external storage is unavailable</string>
+    <string name="state_failed_unlicensed" translatable="false">Download failed because you may not have purchased this app</string>
+    <string name="state_failed_fetching_url" translatable="false">Download failed because the resources could not be found</string>
+    <string name="state_failed_sdcard_full" translatable="false">Download failed because the external storage is full</string>
+    <string name="state_failed_cancelled" translatable="false">Download cancelled</string>
+    <string name="state_failed" translatable="false">Download failed</string>
+
+    <string name="kilobytes_per_second" translatable="false">%1$s KB/s</string>
+    <string name="time_remaining" translatable="false">Time remaining: %1$s</string>
+    <string name="time_remaining_notification" translatable="false">%1$s left</string>
+    <string name="card_list_type_romaji" translatable="false">card_list_type_romaji</string>
+    <string name="bundle_jlpt_menu_adapter" translatable="false">bundle_jlpt_menu_adapter</string>
+    <string name="result_last_jlpt" translatable="false">result_last_jlpt</string>
+
+
+</resources>

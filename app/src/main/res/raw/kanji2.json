@@ -1,0 +1,179 @@
+{
+  "explanationEnglish": "",
+  "explanationIndonesia": "",
+  "kanjis": {
+    "vc0201": {
+      "vc0201_0": {
+        "kanji": "田",
+        "indonesia": "ladang",
+        "english": "field",
+        "hiraganakun": "た,～だ",
+        "hiraganaon": "-",
+        "romajikun": "ta,-da",
+        "romajion": "-"
+      },
+      "vc0201_1": {
+        "kanji": "田んぼ",
+        "indonesia": "ladang padi",
+        "english": "rice field",
+        "hiraganakun": "たんぼう",
+        "hiraganaon": "-",
+        "romajikun": "tanbou",
+        "romajion": "-"
+      },
+      "vc0201_2": {
+        "kanji": "山田",
+        "indonesia": "Yamada-nama keluarga ",
+        "english": "Yamada-a Japanese surname",
+        "hiraganakun": "やまだ",
+        "hiraganaon": "-",
+        "romajikun": "yamada",
+        "romajion": "-"
+      },
+      "vc0201_3": {
+        "kanji": "田中",
+        "indonesia": "Tanaka-nama keluarga",
+        "english": "Tanaka-a Japanese surname",
+        "hiraganakun": "たなか",
+        "hiraganaon": "-",
+        "romajikun": "tanaka",
+        "romajion": "-"
+      },
+      "vc0201_4": {
+        "kanji": "水田",
+        "indonesia": "ladang padi sawah",
+        "english": "Paddy field",
+        "hiraganakun": "すいでん",
+        "hiraganaon": "-",
+        "romajikun": "suiden",
+        "romajion": "-"
+      }
+    },
+    "vc0202": {
+      "vc0202_0": {
+        "kanji": "人",
+        "indonesia": "orang",
+        "english": "man, person",
+        "hiraganakun": "ひと",
+        "hiraganaon": "ジン, ニン",
+        "romajikun": "hito",
+        "romajion": "jin, nin"
+      },
+      "vc0202_1": {
+        "kanji": "日本人",
+        "indonesia": "orang Jepang",
+        "english": "a Japanese",
+        "hiraganakun": "にほんじん",
+        "hiraganaon": "-",
+        "romajikun": "nihonjin",
+        "romajion": "-"
+      },
+      "vc0202_2": {
+        "kanji": "1人",
+        "indonesia": "sendirian 1 orang",
+        "english": "one person",
+        "hiraganakun": "ひとり",
+        "hiraganaon": "-",
+        "romajikun": "hitori",
+        "romajion": "-"
+      },
+      "vc0202_3": {
+        "kanji": "3人",
+        "indonesia": "tiga orang",
+        "english": "three people",
+        "hiraganakun": "さんにん",
+        "hiraganaon": "-",
+        "romajikun": "sannin",
+        "romajion": "-"
+      }
+    },
+    "vc0203": {
+      "vc0203_0": {
+        "kanji": "口",
+        "indonesia": "mulut",
+        "english": "mouth",
+        "hiraganakun": "くち",
+        "hiraganaon": "コウ",
+        "romajikun": "kuchi",
+        "romajion": "kou"
+      },
+      "vc0203_1": {
+        "kanji": "出口",
+        "indonesia": "pintu keluar",
+        "english": "an exit",
+        "hiraganakun": "でぐち",
+        "hiraganaon": "-",
+        "romajikun": "deguchi",
+        "romajion": "-"
+      },
+      "vc0203_2": {
+        "kanji": "入口",
+        "indonesia": "pintu masuk",
+        "english": "an entrance",
+        "hiraganakun": "いりぐち",
+        "hiraganaon": "-",
+        "romajikun": "iriguchi",
+        "romajion": "-"
+      },
+      "vc0203_3": {
+        "kanji": "人口",
+        "indonesia": "penduduk",
+        "english": "population",
+        "hiraganakun": "じんこう",
+        "hiraganaon": "-",
+        "romajikun": "jinkou",
+        "romajion": "-"
+      }
+    },
+    "vc0204": {
+      "vc0204_0": {
+        "kanji": "車",
+        "indonesia": "mobil",
+        "english": "car",
+        "hiraganakun": "くるま",
+        "hiraganaon": "シャ",
+        "romajikun": "kuruma",
+        "romajion": "sha"
+      },
+      "vc0204_1": {
+        "kanji": "電車",
+        "indonesia": "kereta",
+        "english": "a train",
+        "hiraganakun": "でんしゃ",
+        "hiraganaon": "-",
+        "romajikun": "densha",
+        "romajion": "-"
+      },
+      "vc0204_2": {
+        "kanji": "自動車",
+        "indonesia": "mobil otomatis",
+        "english": "a car, an automobile",
+        "hiraganakun": "じどうしゃ",
+        "hiraganaon": "-",
+        "romajikun": "jidousha",
+        "romajion": "-"
+      }
+    },
+    "vc0205": {
+      "vc0205_0": {
+        "kanji": "門",
+        "indonesia": "gerbang",
+        "english": "gate",
+        "hiraganakun": "もん",
+        "hiraganaon": "モン",
+        "romajikun": "mon",
+        "romajion": "mon"
+      },
+      "vc0205_1": {
+        "kanji": "専門",
+        "indonesia": "jurusan",
+        "english": "a speciality",
+        "hiraganakun": "せんもん",
+        "hiraganaon": "-",
+        "romajikun": "senmon",
+        "romajion": "-"
+      }
+    }
+  }
+}
+

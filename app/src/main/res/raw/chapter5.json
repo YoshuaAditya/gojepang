@@ -1,0 +1,354 @@
+{
+  "words": {
+    "vc0501": {
+      "kanji": "‹N‚«‚Ü‚·",
+      "kana": "‚¨‚«‚Ü‚·",
+      "romaji": "okimasu",
+      "indonesia": "bangun",
+      "english": "get up, wake up"
+    },
+    "vc0502": {
+      "kanji": "Q‚Ü‚·",
+      "kana": "‚Ë‚Ü‚·",
+      "romaji": "nemasu",
+      "indonesia": "tidur",
+      "english": "sleep, go to bed"
+    },
+    "vc0503": {
+      "kanji": "“­‚«‚Ü‚·",
+      "kana": "‚Í‚½‚ç‚«‚Ü‚·",
+      "romaji": "hatarikimasu",
+      "indonesia": "bekerja",
+      "english": "work"
+    },
+    "vc0504": {
+      "kanji": "‹x‚İ‚Ü‚·",
+      "kana": "‚â‚·‚İ‚Ü‚·",
+      "romaji": "yasumimasu",
+      "indonesia": "beristirahat",
+      "english": "take a rest, take a holiday"
+    },
+    "vc0505": {
+      "kanji": "•×‹­‚µ‚Ü‚·",
+      "kana": "‚×‚ñ‚«‚å‚¤‚µ‚Ü‚·",
+      "romaji": "benkyoushimasu",
+      "indonesia": "belajar",
+      "english": "study"
+    },
+    "vc0506": {
+      "kanji": "I‚í‚è‚Ü‚·",
+      "kana": "‚¨‚í‚è‚Ü‚·",
+      "romaji": "owarimasu",
+      "indonesia": "selesai",
+      "english": "finish"
+    },
+    "vc0507": {
+      "kanji": "ƒfƒp[ƒg",
+      "kana": "ƒfƒp[ƒg",
+      "romaji": "depaato",
+      "indonesia": "toko serba ada",
+      "english": "department store"
+    },
+    "vc0508": {
+      "kanji": "‹âs",
+      "kana": "‚¬‚ñ‚±‚¤",
+      "romaji": "ginkou",
+      "indonesia": "bank",
+      "english": "bank"
+    },
+    "vc0509": {
+      "kanji": "—X•Ö‹Ç",
+      "kana": "‚ä‚¤‚Ñ‚ñ‚«‚å‚­",
+      "romaji": "yuubinkyoku",
+      "indonesia": "kantor pos",
+      "english": "post office"
+    },
+    "vc0510": {
+      "kanji": "}‘ŠÙ",
+      "kana": "‚Æ‚µ‚å‚©‚ñ",
+      "romaji": "toshokan",
+      "indonesia": "perpustakaan",
+      "english": "library"
+    },
+    "vc0511": {
+      "kanji": "”üpŠÙ",
+      "kana": "‚Ñ‚¶‚ã‚Â‚©‚ñ",
+      "romaji": "bijutsukan",
+      "indonesia": "gedung kesenian",
+      "english": "art museum"
+    },
+    "vc0512": {
+      "kanji": "¡",
+      "kana": "‚¢‚Ü",
+      "romaji": "ima",
+      "indonesia": "sekarang",
+      "english": "now"
+    },
+    "vc0513": {
+      "kanji": "[",
+      "kana": "`‚¶",
+      "romaji": "-ji",
+      "indonesia": "pukul",
+      "english": "o'clock"
+    },
+    "vc0514": {
+      "kanji": "[•ª",
+      "kana": "`‚Ó‚ñ",
+      "romaji": "-fun (-pun)",
+      "indonesia": "menit",
+      "english": "minute"
+    },
+    "vc0515": {
+      "kanji": "”¼",
+      "kana": "‚Í‚ñ",
+      "romaji": "han",
+      "indonesia": "setengah jam",
+      "english": "half"
+    },
+    "vc0516": {
+      "kanji": "‰½",
+      "kana": "‚È‚ñ‚¶",
+      "romaji": "nanji",
+      "indonesia": "jam berapa",
+      "english": "what time"
+    },
+    "vc0517": {
+      "kanji": "‰½•ª",
+      "kana": "‚È‚ñ‚Õ‚ñ",
+      "romaji": "nanpun",
+      "indonesia": "berama menit",
+      "english": "what minute"
+    },
+    "vc0518": {
+      "kanji": "Œß‘O",
+      "kana": "‚²‚º‚ñ",
+      "romaji": "gozen",
+      "indonesia": "waktu sebelum jam 12 siang",
+      "english": "a.m. morning"
+    },
+    "vc0519": {
+      "kanji": "ŒßŒã",
+      "kana": "‚²‚²",
+      "romaji": "gogo",
+      "indonesia": "waktu setelah jam 12 siang",
+      "english": "p.m. afternoon"
+    },
+    "vc0520": {
+      "kanji": "’©",
+      "kana": "‚ ‚³",
+      "romaji": "asa",
+      "indonesia": "pagi",
+      "english": "morning"
+    },
+    "vc0521": {
+      "kanji": "’‹",
+      "kana": "‚Ğ‚é",
+      "romaji": "hiru",
+      "indonesia": "siang",
+      "english": "noon"
+    },
+    "vc0522": {
+      "kanji": "”Ó",
+      "kana": "‚Î‚ñ",
+      "romaji": "ban (yoru)",
+      "indonesia": "malam",
+      "english": "evening"
+    },
+    "vc0523": {
+      "kanji": "ˆêğ“ú",
+      "kana": "‚¨‚Æ‚Æ‚¢",
+      "romaji": "ototoi",
+      "indonesia": "2 hari yang lalu",
+      "english": "the day before yesterday"
+    },
+    "vc0524": {
+      "kanji": "ğ“ú",
+      "kana": "‚«‚Ì‚¤",
+      "romaji": "kinou",
+      "indonesia": "kemarin",
+      "english": "yesterday"
+    },
+    "vc0525": {
+      "kanji": "¡“ú",
+      "kana": "‚«‚å‚¤",
+      "romaji": "kyou",
+      "indonesia": "hari ini",
+      "english": "today"
+    },
+    "vc0526": {
+      "kanji": "–¾“ú",
+      "kana": "‚ ‚µ‚½",
+      "romaji": "ashita",
+      "indonesia": "besok",
+      "english": "tomorrow"
+    },
+    "vc0527": {
+      "kanji": "–¾Œã“ú",
+      "kana": "‚ ‚³‚Á‚Ä",
+      "romaji": "asatte",
+      "indonesia": "besok lusa",
+      "english": "the day after tomorrow"
+    },
+    "vc0528": {
+      "kanji": "¡’©",
+      "kana": "‚¯‚³",
+      "romaji": "kesa",
+      "indonesia": "tadi pagi",
+      "english": "this morning"
+    },
+    "vc0529": {
+      "kanji": "¡”Ó",
+      "kana": "‚±‚ñ‚Î‚ñ",
+      "romaji": "konban",
+      "indonesia": "nanti malam",
+      "english": "tonight"
+    },
+    "vc0530": {
+      "kanji": "‹x‚İ",
+      "kana": "‚â‚·‚İ",
+      "romaji": "yasumi",
+      "indonesia": "libur",
+      "english": "rest a day off"
+    },
+    "vc0531": {
+      "kanji": "’‹‹x‚İ",
+      "kana": "‚Ğ‚é‚â‚·‚İ",
+      "romaji": "hiruyasumi",
+      "indonesia": "istirahat siang",
+      "english": "lunch time"
+    },
+    "vc0532": {
+      "kanji": "–ˆ’©",
+      "kana": "‚Ü‚¢‚ ‚³",
+      "romaji": "mai asa",
+      "indonesia": "setiap pagi",
+      "english": "every morning"
+    },
+    "vc0533": {
+      "kanji": "–ˆ”Ó",
+      "kana": "‚Ü‚¢‚Î‚ñ",
+      "romaji": "mai ban",
+      "indonesia": "setiap siang",
+      "english": "every night"
+    },
+    "vc0534": {
+      "kanji": "–ˆ“ú",
+      "kana": "‚Ü‚¢‚É‚¿",
+      "romaji": "mai nichi",
+      "indonesia": "setiap hari",
+      "english": "every day"
+    },
+    "vc0535": {
+      "kanji": "Œ—j“ú",
+      "kana": "‚°‚Â‚æ‚¤‚Ñ",
+      "romaji": "getsuyoubi",
+      "indonesia": "senin",
+      "english": "Monday"
+    },
+    "vc0536": {
+      "kanji": "‰Î—j“ú",
+      "kana": "‚©‚æ‚¤‚Ñ",
+      "romaji": "kayoubi",
+      "indonesia": "selasa",
+      "english": "Tuesday"
+    },
+    "vc0537": {
+      "kanji": "…—j“ú",
+      "kana": "‚·‚¢‚æ‚¤‚Ñ",
+      "romaji": "suiyoubi",
+      "indonesia": "rabu",
+      "english": "Wednesday"
+    },
+    "vc0538": {
+      "kanji": "–Ø—j“ú",
+      "kana": "‚à‚­‚æ‚¤‚Ñ",
+      "romaji": "mokuyoubi",
+      "indonesia": "kamis",
+      "english": "Thursday"
+    },
+    "vc0539": {
+      "kanji": "‹à—j“ú",
+      "kana": "‚«‚ñ‚æ‚¤‚Ñ",
+      "romaji": "kinyoubi",
+      "indonesia": "jumat",
+      "english": "Friday"
+    },
+    "vc0540": {
+      "kanji": "“y—j“ú",
+      "kana": "‚Ç‚æ‚¤‚Ñ",
+      "romaji": "doyoubi",
+      "indonesia": "sabtu",
+      "english": "Saturday"
+    },
+    "vc0541": {
+      "kanji": "“ú—j“ú",
+      "kana": "‚É‚¿‚æ‚¤‚Ñ",
+      "romaji": "nichiyoubi",
+      "indonesia": "minggu",
+      "english": "Sunday"
+    },
+    "vc0542": {
+      "kanji": "‰½—j“ú",
+      "kana": "‚È‚ñ‚æ‚¤‚Ñ",
+      "romaji": "nanyoubi",
+      "indonesia": "hari apa?",
+      "english": "what day"
+    },
+    "vc0543": {
+      "kanji": "”Ô†",
+      "kana": "‚Î‚ñ‚²‚¤",
+      "romaji": "bangou",
+      "indonesia": "nomor",
+      "english": "number"
+    },
+    "vc0544": {
+      "kanji": "‰½”Ô",
+      "kana": "‚È‚ñ‚Î‚ñ",
+      "romaji": "nanban",
+      "indonesia": "nomor berapa?",
+      "english": "what number"
+    },
+    "vc0545": {
+      "kanji": "[‚©‚ç",
+      "kana": "`‚©‚ç",
+      "romaji": "-kara",
+      "indonesia": "dari -",
+      "english": "from -"
+    },
+    "vc0546": {
+      "kanji": "[‚Ü‚Å",
+      "kana": "`‚Ü‚Å",
+      "romaji": "-made",
+      "indonesia": "sampai -",
+      "english": "up to - until -"
+    },
+    "vc0547": {
+      "kanji": "‚Æ",
+      "kana": "‚Æ",
+      "romaji": "to",
+      "indonesia": "dan",
+      "english": "and"
+    },
+    "vc0548": {
+      "kanji": "‚»‚¿‚ç",
+      "kana": "‚»‚¿‚ç",
+      "romaji": "sochira",
+      "indonesia": "disana",
+      "english": "your place"
+    },
+    "vc0549": {
+      "kanji": "‘½•Ï",
+      "kana": "‚½‚¢‚Ö‚ñ‚Å‚·‚ËB",
+      "romaji": "taihendesune",
+      "indonesia": "ribet ya",
+      "english": "that's tough isn't it? "
+    },
+    "vc0550": {
+      "kanji": "‚¦[‚Æ",
+      "kana": "‚¦[‚Æ",
+      "romaji": "eeto",
+      "indonesia": "aac (memikirkan sesuatu)",
+      "english": "well let me see"
+    }
+  }
+}

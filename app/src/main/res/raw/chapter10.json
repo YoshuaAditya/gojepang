@@ -1,0 +1,312 @@
+{
+  "words": {
+    "vc1001": {
+      "kanji": "わかります",
+      "kana": "わかります",
+      "romaji": "wakarimasu",
+      "indonesia": "mengerti",
+      "english": "understand"
+    },
+    "vc1002": {
+      "kanji": "あります",
+      "kana": "あります",
+      "romaji": "arimasu",
+      "indonesia": "ada, mempunyai",
+      "english": "have"
+    },
+    "vc1003": {
+      "kanji": "すき[な]",
+      "kana": "すき「な」",
+      "romaji": "suki[na]",
+      "indonesia": "suka, gemar",
+      "english": "like"
+    },
+    "vc1004": {
+      "kanji": "嫌い[な]",
+      "kana": "きらい「な」",
+      "romaji": "kirai[na]",
+      "indonesia": "tidak suka",
+      "english": "dislike"
+    },
+    "vc1005": {
+      "kanji": "上手[な]",
+      "kana": "じょうず「な」",
+      "romaji": "jouzu[na]",
+      "indonesia": "pandai, mahir",
+      "english": "good at"
+    },
+    "vc1006": {
+      "kanji": "下手[な]",
+      "kana": "へた「な」",
+      "romaji": "heta[na]",
+      "indonesia": "tidak pandai, tidak mahir",
+      "english": "poor at"
+    },
+    "vc1007": {
+      "kanji": "料理",
+      "kana": "りょうり",
+      "romaji": "ryouri",
+      "indonesia": "masakan",
+      "english": "dish, cooking"
+    },
+    "vc1008": {
+      "kanji": "飲み物",
+      "kana": "のみもの",
+      "romaji": "nomimono",
+      "indonesia": "minuman",
+      "english": "drinks"
+    },
+    "vc1009": {
+      "kanji": "スポーツ",
+      "kana": "スポーツ",
+      "romaji": "supootsu",
+      "indonesia": "olahraga ",
+      "english": "sport"
+    },
+    "vc1010": {
+      "kanji": "野球",
+      "kana": "やきゅう",
+      "romaji": "yakyuu",
+      "indonesia": "baseball",
+      "english": "baseball"
+    },
+    "vc1011": {
+      "kanji": "ダンス",
+      "kana": "ダンス",
+      "romaji": "dansu",
+      "indonesia": "dansa",
+      "english": "dance"
+    },
+    "vc1012": {
+      "kanji": "音楽",
+      "kana": "おんがく",
+      "romaji": "ongaku",
+      "indonesia": "musik",
+      "english": "music"
+    },
+    "vc1013": {
+      "kanji": "歌",
+      "kana": "うた",
+      "romaji": "uta",
+      "indonesia": "lagu, nyanyian",
+      "english": "song"
+    },
+    "vc1014": {
+      "kanji": "クラシック",
+      "kana": "クラシック",
+      "romaji": "kurashikku",
+      "indonesia": "musik klasik",
+      "english": "classical music"
+    },
+    "vc1015": {
+      "kanji": "ジャズ",
+      "kana": "ジャズ",
+      "romaji": "jyazu",
+      "indonesia": "jazz",
+      "english": "jazz"
+    },
+    "vc1016": {
+      "kanji": "コンサート",
+      "kana": "コンサート",
+      "romaji": "konsaato",
+      "indonesia": "konser",
+      "english": "concert"
+    },
+    "vc1017": {
+      "kanji": "カラオケ",
+      "kana": "カラオケ",
+      "romaji": "karaoke",
+      "indonesia": "karaoke",
+      "english": "karaoke"
+    },
+    "vc1018": {
+      "kanji": "歌舞伎",
+      "kana": "かぶき",
+      "romaji": "kabuki",
+      "indonesia": "kabuki (drama jepang)",
+      "english": "Kabuki (traditional Japanese)"
+    },
+    "vc1019": {
+      "kanji": "絵",
+      "kana": "え",
+      "romaji": "e",
+      "indonesia": "gambar, lukisan",
+      "english": "picture, drawing"
+    },
+    "vc1020": {
+      "kanji": "字",
+      "kana": "じ",
+      "romaji": "ji",
+      "indonesia": "huruf",
+      "english": "letter, character"
+    },
+    "vc1021": {
+      "kanji": "漢字",
+      "kana": "かんじ",
+      "romaji": "kanji",
+      "indonesia": "huruf cina",
+      "english": "Chinese characters"
+    },
+    "vc1022": {
+      "kanji": "ひらがな",
+      "kana": "ひらがな",
+      "romaji": "hiragana",
+      "indonesia": "huruf Hiragana",
+      "english": "Hiragana script"
+    },
+    "vc1023": {
+      "kanji": "かたかな",
+      "kana": "かたかな",
+      "romaji": "katakana",
+      "indonesia": "huruf Katakana",
+      "english": "Katakana script"
+    },
+    "vc1024": {
+      "kanji": "ローマ字",
+      "kana": "ローマじ",
+      "romaji": "roomaji",
+      "indonesia": "huruf Latin",
+      "english": "the Roman alphabet"
+    },
+    "vc1025": {
+      "kanji": "細かいお金",
+      "kana": "こまかいおかね",
+      "romaji": "komakai okane",
+      "indonesia": "uang kecil, uang koin, tiket",
+      "english": "small change"
+    },
+    "vc1026": {
+      "kanji": "チケット",
+      "kana": "チケット",
+      "romaji": "chiketto",
+      "indonesia": "tiket",
+      "english": "ticket"
+    },
+    "vc1027": {
+      "kanji": "時間",
+      "kana": "じかん",
+      "romaji": "jikan",
+      "indonesia": "waktu",
+      "english": "time"
+    },
+    "vc1028": {
+      "kanji": "用事",
+      "kana": "ようじ",
+      "romaji": "youji",
+      "indonesia": "urusan",
+      "english": "something to do, errand"
+    },
+    "vc1029": {
+      "kanji": "約束",
+      "kana": "やくそく",
+      "romaji": "yakusoku",
+      "indonesia": "janji",
+      "english": "appointment, promise"
+    },
+    "vc1030": {
+      "kanji": "ご主人",
+      "kana": "ごしゅじん",
+      "romaji": "goshujin",
+      "indonesia": "suami (orang lain)",
+      "english": "(someone else's) husband"
+    },
+    "vc1031": {
+      "kanji": "夫/主人",
+      "kana": "おっと/しゅじん",
+      "romaji": "otto / shujin",
+      "indonesia": "suami (sendiri)",
+      "english": "(my) husband"
+    },
+    "vc1032": {
+      "kanji": "奥さん",
+      "kana": "おくさん",
+      "romaji": "okusan",
+      "indonesia": "istri (orang lain)",
+      "english": "(someone else's) wife"
+    },
+    "vc1033": {
+      "kanji": "妻/家内",
+      "kana": "つま/かない",
+      "romaji": "tsuma / kanai",
+      "indonesia": "istri (sendiri)",
+      "english": "(my) wife"
+    },
+    "vc1034": {
+      "kanji": "子ども",
+      "kana": "こども",
+      "romaji": "kodomo",
+      "indonesia": "anak",
+      "english": "child"
+    },
+    "vc1035": {
+      "kanji": "よく",
+      "kana": "よく",
+      "romaji": "yoku",
+      "indonesia": "dengan, baik",
+      "english": "well, much"
+    },
+    "vc1036": {
+      "kanji": "だいたい",
+      "kana": "だいたい",
+      "romaji": "daitai",
+      "indonesia": "hampir sebagian besar",
+      "english": "mostly, roughly"
+    },
+    "vc1037": {
+      "kanji": "たくさん",
+      "kana": "たくさん",
+      "romaji": "takusan",
+      "indonesia": "banyak",
+      "english": "many much"
+    },
+    "vc1038": {
+      "kanji": "少し",
+      "kana": "すこし",
+      "romaji": "sukoshi",
+      "indonesia": "sedikit",
+      "english": "a ittle, a few"
+    },
+    "vc1039": {
+      "kanji": "全然",
+      "kana": "ぜんぜん",
+      "romaji": "zenzen",
+      "indonesia": "sama sekali tidak (negatif)",
+      "english": "not at all (used with negatives)"
+    },
+    "vc1040": {
+      "kanji": "早く、速く",
+      "kana": "はやく",
+      "romaji": "hayaku",
+      "indonesia": "dengan cepat, pagi-pagi",
+      "english": "early, quickly, fast"
+    },
+    "vc1041": {
+      "kanji": "～から",
+      "kana": "～から",
+      "romaji": "~kara",
+      "indonesia": "karena, sebab",
+      "english": "because"
+    },
+    "vc1042": {
+      "kanji": "どうして",
+      "kana": "どうして",
+      "romaji": "doushite",
+      "indonesia": "kenapa, mengapa",
+      "english": "why"
+    },
+    "vc1043": {
+      "kanji": "残念です[ね]。",
+      "kana": "ざんねんです[ね]。",
+      "romaji": "zannen [ne].",
+      "indonesia": "Sayang sekali ya. (menyesal)",
+      "english": "I'm sorry to hear that"
+    },
+    "vc1044": {
+      "kanji": "すみません。",
+      "kana": "すみません。",
+      "romaji": "sumimasen.",
+      "indonesia": "Permisi./Maaf.",
+      "english": "I am sorry"
+    }
+  }
+}

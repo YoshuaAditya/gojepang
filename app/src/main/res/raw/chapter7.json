@@ -1,0 +1,501 @@
+{
+  "words": {
+    "vc0701": {
+      "kanji": "食べます",
+      "kana": "たべます",
+      "romaji": "tabemasu",
+      "indonesia": "makan",
+      "english": "eat"
+    },
+    "vc0702": {
+      "kanji": "飲みます",
+      "kana": "のみます",
+      "romaji": "nomimasu",
+      "indonesia": "minum",
+      "english": "drink"
+    },
+    "vc0703": {
+      "kanji": "吸います",
+      "kana": "すいます",
+      "romaji": "suimasu",
+      "indonesia": "merokok",
+      "english": "smoke"
+    },
+    "vc0704": {
+      "kanji": "見ます",
+      "kana": "みます",
+      "romaji": "mimasu",
+      "indonesia": "melihat, menonton",
+      "english": "see, watch"
+    },
+    "vc0705": {
+      "kanji": "聞きます",
+      "kana": "ききます",
+      "romaji": "kikimasu",
+      "indonesia": "mendengar",
+      "english": "hear, listen"
+    },
+    "vc0706": {
+      "kanji": "読みます",
+      "kana": "よみます",
+      "romaji": "yomimasu",
+      "indonesia": "membaca",
+      "english": "read"
+    },
+    "vc0707": {
+      "kanji": "書きます",
+      "kana": "かきます",
+      "romaji": "kakimasu",
+      "indonesia": "menulis, mengambar",
+      "english": "write, draw, paint"
+    },
+    "vc0708": {
+      "kanji": "買います",
+      "kana": "かいます",
+      "romaji": "kaimasu",
+      "indonesia": "membeli",
+      "english": "buy"
+    },
+    "vc0709": {
+      "kanji": "撮ります",
+      "kana": "とります",
+      "romaji": "torimasu",
+      "indonesia": "mengambil",
+      "english": "take"
+    },
+    "vc0710": {
+      "kanji": "写真を撮ります",
+      "kana": "しゃしんをとります",
+      "romaji": "shashin o torimasu",
+      "indonesia": "mengambil foto",
+      "english": "take a photograph"
+    },
+    "vc0711": {
+      "kanji": "します",
+      "kana": "します",
+      "romaji": "shimasu",
+      "indonesia": "mengerjakan, melakukan",
+      "english": "do"
+    },
+    "vc0712": {
+      "kanji": "会います",
+      "kana": "あいます",
+      "romaji": "aimasu",
+      "indonesia": "bertemu",
+      "english": "meet"
+    },
+    "vc0713": {
+      "kanji": "友達に会います",
+      "kana": "ともだちにあいます",
+      "romaji": "tomodachi ni aimasu",
+      "indonesia": "bertemu teman",
+      "english": "meet a friend"
+    },
+    "vc0714": {
+      "kanji": "ごはん",
+      "kana": "ごはん",
+      "romaji": "gohan",
+      "indonesia": "makanan, nasi ",
+      "english": "a meal"
+    },
+    "vc0715": {
+      "kanji": "朝ごはん",
+      "kana": "あさごはん",
+      "romaji": "asagohan",
+      "indonesia": "sarapan",
+      "english": "breakfast"
+    },
+    "vc0716": {
+      "kanji": "昼ごはん",
+      "kana": "ひるごはん",
+      "romaji": "hirugohan",
+      "indonesia": "makan siang",
+      "english": "lunch"
+    },
+    "vc0717": {
+      "kanji": "晩ごはん",
+      "kana": "ばんごはん",
+      "romaji": "bangohan",
+      "indonesia": "makan malam",
+      "english": "dinner"
+    },
+    "vc0718": {
+      "kanji": "パン",
+      "kana": "パン",
+      "romaji": "pan",
+      "indonesia": "roti",
+      "english": "bread"
+    },
+    "vc0719": {
+      "kanji": "卵",
+      "kana": "たまご",
+      "romaji": "tamago",
+      "indonesia": "telur",
+      "english": "egg"
+    },
+    "vc0720": {
+      "kanji": "肉",
+      "kana": "にく",
+      "romaji": "niku",
+      "indonesia": "daging",
+      "english": "meat"
+    },
+    "vc0721": {
+      "kanji": "魚",
+      "kana": "さかな",
+      "romaji": "sakana",
+      "indonesia": "ikan",
+      "english": "fish"
+    },
+    "vc0722": {
+      "kanji": "野菜",
+      "kana": "やさい",
+      "romaji": "yasai",
+      "indonesia": "sayur",
+      "english": "vegetable"
+    },
+    "vc0723": {
+      "kanji": "果物",
+      "kana": "くだもの",
+      "romaji": "kudamono",
+      "indonesia": "buah buahan",
+      "english": "fruit"
+    },
+    "vc0724": {
+      "kanji": "水",
+      "kana": "みず",
+      "romaji": "mizu",
+      "indonesia": "air",
+      "english": "water"
+    },
+    "vc0725": {
+      "kanji": "お茶",
+      "kana": "おちゃ",
+      "romaji": "ocha",
+      "indonesia": "teh hijau",
+      "english": "green tea"
+    },
+    "vc0726": {
+      "kanji": "紅茶",
+      "kana": "こうちゃ",
+      "romaji": "koucha",
+      "indonesia": "teh",
+      "english": "black tea"
+    },
+    "vc0727": {
+      "kanji": "牛乳",
+      "kana": "ぎゅうにゅう",
+      "romaji": "gyuunyuu",
+      "indonesia": "susu sapi",
+      "english": "milk"
+    },
+    "vc0728": {
+      "kanji": "ジュース",
+      "kana": "ジュース",
+      "romaji": "juusu",
+      "indonesia": "jus",
+      "english": "juice"
+    },
+    "vc0729": {
+      "kanji": "ビール",
+      "kana": "ビール",
+      "romaji": "biiru",
+      "indonesia": "bir",
+      "english": "beer"
+    },
+    "vc0730": {
+      "kanji": "お酒",
+      "kana": "おさけ",
+      "romaji": "osake",
+      "indonesia": "minuman keras, sake",
+      "english": "Japanese rice wine"
+    },
+    "vc0731": {
+      "kanji": "ビデオ",
+      "kana": "ビデオ",
+      "romaji": "bideo",
+      "indonesia": "video",
+      "english": "video"
+    },
+    "vc0732": {
+      "kanji": "映画",
+      "kana": "えいが",
+      "romaji": "eiga",
+      "indonesia": "film",
+      "english": "movie"
+    },
+    "vc0733": {
+      "kanji": "CD",
+      "kana": "CD",
+      "romaji": "CD",
+      "indonesia": "CD",
+      "english": "compact disc"
+    },
+    "vc0734": {
+      "kanji": "手紙",
+      "kana": "てがみ",
+      "romaji": "tegami",
+      "indonesia": "surat",
+      "english": "letter"
+    },
+    "vc0735": {
+      "kanji": "レポート",
+      "kana": "レポート",
+      "romaji": "repooto",
+      "indonesia": "laporan",
+      "english": "report"
+    },
+    "vc0736": {
+      "kanji": "写真",
+      "kana": "しゃしん",
+      "romaji": "shashin",
+      "indonesia": "foto",
+      "english": "photograph"
+    },
+    "vc0737": {
+      "kanji": "店",
+      "kana": "みせ",
+      "romaji": "mise",
+      "indonesia": "toko",
+      "english": "store shop"
+    },
+    "vc0738": {
+      "kanji": "レストラン",
+      "kana": "レストラン",
+      "romaji": "resutoran",
+      "indonesia": "restaurant",
+      "english": "restaurant"
+    },
+    "vc0739": {
+      "kanji": "庭",
+      "kana": "にわ",
+      "romaji": "niwa",
+      "indonesia": "halaman kebun",
+      "english": "garden"
+    },
+    "vc0740": {
+      "kanji": "宿題",
+      "kana": "しゅくだい",
+      "romaji": "shukudai",
+      "indonesia": "PR",
+      "english": "homework"
+    },
+    "vc0741": {
+      "kanji": "テニス",
+      "kana": "テニス",
+      "romaji": "tenisu",
+      "indonesia": "tenis",
+      "english": "tennis"
+    },
+    "vc0742": {
+      "kanji": "サッカー",
+      "kana": "サッカー",
+      "romaji": "sakkaa",
+      "indonesia": "sepakbola",
+      "english": "soccer football"
+    },
+    "vc0743": {
+      "kanji": "花見",
+      "kana": "はなみ",
+      "romaji": "hanami",
+      "indonesia": "melihat dan menonton bunga",
+      "english": "cherry-blossom viewing"
+    },
+    "vc0744": {
+      "kanji": "何",
+      "kana": "なん",
+      "romaji": "nani",
+      "indonesia": "apa",
+      "english": "what"
+    },
+    "vc0745": {
+      "kanji": "一緒に",
+      "kana": "いっしょうに",
+      "romaji": "isshoni",
+      "indonesia": "bersama sama",
+      "english": "together"
+    },
+    "vc0746": {
+      "kanji": "ちょっと",
+      "kana": "ちょっと",
+      "romaji": "chotto",
+      "indonesia": "sebentar, sedikit",
+      "english": "a little while, a little bit"
+    },
+    "vc0747": {
+      "kanji": "いつも",
+      "kana": "いつも",
+      "romaji": "itsumo",
+      "indonesia": "selalu",
+      "english": "always"
+    },
+    "vc0748": {
+      "kanji": "時々",
+      "kana": "ときどき",
+      "romaji": "tokidoki",
+      "indonesia": "kadang kadang",
+      "english": "sometimes"
+    },
+    "vc0749": {
+      "kanji": "それから",
+      "kana": "それから",
+      "romaji": "sorekara",
+      "indonesia": "kemudian",
+      "english": "after that, and then"
+    },
+    "vc0750": {
+      "kanji": "きゅうり",
+      "kana": "きゅうり",
+      "romaji": "kyuuri",
+      "indonesia": "mentimun",
+      "english": "cucumber"
+    },
+    "vc0751": {
+      "kanji": "茄子",
+      "kana": "なす",
+      "romaji": "nasu",
+      "indonesia": "terong",
+      "english": "eggplant"
+    },
+    "vc0752": {
+      "kanji": "豆",
+      "kana": "まめ",
+      "romaji": "mame",
+      "indonesia": "kacang",
+      "english": "beans peas"
+    },
+    "vc0753": {
+      "kanji": "ねぎ",
+      "kana": "ねぎ",
+      "romaji": "negi",
+      "indonesia": "daun bawang",
+      "english": "welsh onion"
+    },
+    "vc0754": {
+      "kanji": "白菜",
+      "kana": "はくさい",
+      "romaji": "hakusai",
+      "indonesia": "sawi putih",
+      "english": "chinese cabbage"
+    },
+    "vc0755": {
+      "kanji": "ほうれん草",
+      "kana": "ほうれんそう",
+      "romaji": "hourensou",
+      "indonesia": "sawi hijau",
+      "english": "spinach"
+    },
+    "vc0756": {
+      "kanji": "しゃがい芋",
+      "kana": "しゃがいも",
+      "romaji": "shagaimo",
+      "indonesia": "kentang",
+      "english": "potato"
+    },
+    "vc0757": {
+      "kanji": "大根",
+      "kana": "だいこん",
+      "romaji": "daikon",
+      "indonesia": "lobak",
+      "english": "japanese radish"
+    },
+    "vc0758": {
+      "kanji": "玉ねぎ",
+      "kana": "たまねぎ",
+      "romaji": "namanegi",
+      "indonesia": "tamanegi",
+      "english": "onion"
+    },
+    "vc0759": {
+      "kanji": "人参",
+      "kana": "にんじん",
+      "romaji": "ninjin",
+      "indonesia": "bawang bombay",
+      "english": "carrot"
+    },
+    "vc0760": {
+      "kanji": "苺",
+      "kana": "いちご",
+      "romaji": "ichigo",
+      "indonesia": "strawberi",
+      "english": "strawberry"
+    },
+    "vc0761": {
+      "kanji": "桃",
+      "kana": "もも",
+      "romaji": "momo",
+      "indonesia": "buah persik",
+      "english": "peach"
+    },
+    "vc0762": {
+      "kanji": "西瓜",
+      "kana": "すいか",
+      "romaji": "suika",
+      "indonesia": "semangka",
+      "english": "watermelon"
+    },
+    "vc0763": {
+      "kanji": "葡萄",
+      "kana": "ぶどう",
+      "romaji": "budou",
+      "indonesia": "anggur",
+      "english": "grape"
+    },
+    "vc0764": {
+      "kanji": "梨",
+      "kana": "なし",
+      "romaji": "nashi",
+      "indonesia": "buah pir",
+      "english": "pear"
+    },
+    "vc0765": {
+      "kanji": "柿",
+      "kana": "かき",
+      "romaji": "kaki",
+      "indonesia": "buah kesemek",
+      "english": "persimmon"
+    },
+    "vc0766": {
+      "kanji": "みかん",
+      "kana": "みかん",
+      "romaji": "mikan",
+      "indonesia": "buah jeruk",
+      "english": "orange"
+    },
+    "vc0767": {
+      "kanji": "りんご",
+      "kana": "りんご",
+      "romaji": "ringo",
+      "indonesia": "buah apel",
+      "english": "apple"
+    },
+    "vc0768": {
+      "kanji": "米",
+      "kana": "こめ",
+      "romaji": "kome",
+      "indonesia": "beras",
+      "english": "rice"
+    },
+    "vc0769": {
+      "kanji": "ええ",
+      "kana": "ええ",
+      "romaji": "ee",
+      "indonesia": "ya",
+      "english": "yes"
+    },
+    "vc0770": {
+      "kanji": "いいですね",
+      "kana": "いいですね",
+      "romaji": "iidesune",
+      "indonesia": "bagus ya",
+      "english": "that's good"
+    },
+    "vc0771": {
+      "kanji": "分かりました",
+      "kana": "わかりました",
+      "romaji": "wakarimasihita",
+      "indonesia": "mengerti",
+      "english": "I understand"
+    }
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "words": {
+    "vc0201": {
+      "kanji": "私",
+      "kana": "わたし",
+      "romaji": "watashi",
+      "indonesia": "saya",
+      "english": "i"
+    },
+    "vc0202": {
+      "kanji": "私たち",
+      "kana": "わたしたち",
+      "romaji": "watashitachi",
+      "indonesia": "kami",
+      "english": "we"
+    },
+    "vc0203": {
+      "kanji": "あなた",
+      "kana": "あなた",
+      "romaji": "anata",
+      "indonesia": "kamu",
+      "english": "you"
+    },
+    "vc0204": {
+      "kanji": "あの人",
+      "kana": "あのひと",
+      "romaji": "anohito",
+      "indonesia": "dia",
+      "english": "he, she, that person"
+    },
+    "vc0205": {
+      "kanji": "あの方",
+      "kana": "あのかた",
+      "romaji": "anokata",
+      "indonesia": "dia (bentuk sopan)",
+      "english": "he, she, that person (polite form)"
+    },
+    "vc0206": {
+      "kanji": "皆さん",
+      "kana": "みなさん",
+      "romaji": "minasan",
+      "indonesia": "semua",
+      "english": "ladies and gentleman"
+    },
+    "vc0207": {
+      "kanji": "ーさん",
+      "kana": "ーさん",
+      "romaji": "-san",
+      "indonesia": "bpk/ ibu/ sdr",
+      "english": "mr."
+    },
+    "vc0208": {
+      "kanji": "ーちゃん",
+      "kana": "ーちゃん",
+      "romaji": "-chan",
+      "indonesia": "akhiran untuk anak perempuan",
+      "english": "suffix for a girl's name"
+    },
+    "vc0209": {
+      "kanji": "ーくん",
+      "kana": "ーくん",
+      "romaji": "-kun",
+      "indonesia": "akhiran untuk anak laki laki",
+      "english": "suffix for a boy's name"
+    },
+    "vc0210": {
+      "kanji": "ー人",
+      "kana": "ー人",
+      "romaji": "-jin",
+      "indonesia": "kewarganegaraan",
+      "english": "suffix meaning "
+    },
+    "vc0211": {
+      "kanji": "先生",
+      "kana": "せんせい",
+      "romaji": "sensei",
+      "indonesia": "guru atau dosen",
+      "english": "teacher"
+    },
+    "vc0212": {
+      "kanji": "教師",
+      "kana": "きょうし",
+      "romaji": "kyoushi",
+      "indonesia": "guru atau dosen (kalangan sendiri)",
+      "english": "teacher"
+    },
+    "vc0213": {
+      "kanji": "学生",
+      "kana": "がくせい",
+      "romaji": "gakusei",
+      "indonesia": "siswa",
+      "english": " mahasiswa"
+    },
+    "vc0214": {
+      "kanji": "会社員",
+      "kana": "かいしゃいん",
+      "romaji": "kaishain",
+      "indonesia": "karyawan perusahaan",
+      "english": "company employee"
+    },
+    "vc0215": {
+      "kanji": "社員",
+      "kana": "しゃいん",
+      "romaji": "shain",
+      "indonesia": "karyawan",
+      "english": "employee"
+    },
+    "vc0216": {
+      "kanji": "銀行員",
+      "kana": "ぎんこういん",
+      "romaji": "ginkouin",
+      "indonesia": "pegawai bank",
+      "english": "bank employee"
+    },
+    "vc0217": {
+      "kanji": "医者",
+      "kana": "いしゃ",
+      "romaji": "isha",
+      "indonesia": "dokter",
+      "english": "medical doctor"
+    },
+    "vc0218": {
+      "kanji": "研究者",
+      "kana": "けんきゅうしゃ",
+      "romaji": "kenkyuusha",
+      "indonesia": "peniliti",
+      "english": "researcher"
+    },
+    "vc0219": {
+      "kanji": "エンジニア",
+      "kana": "エンジニア",
+      "romaji": "enjinia",
+      "indonesia": "insinyur",
+      "english": "engineer"
+    },
+    "vc0220": {
+      "kanji": "大学",
+      "kana": "だいがく",
+      "romaji": "daigaku",
+      "indonesia": "universitas",
+      "english": "university"
+    },
+    "vc0221": {
+      "kanji": "病院",
+      "kana": "びょういん",
+      "romaji": "byouin",
+      "indonesia": "rumah sakit",
+      "english": "hospital"
+    },
+    "vc0222": {
+      "kanji": "電気",
+      "kana": "でんき",
+      "romaji": "denki",
+      "indonesia": "listrik",
+      "english": " lampu"
+    },
+    "vc0223": {
+      "kanji": "だれ",
+      "kana": "だれ",
+      "romaji": "dare",
+      "indonesia": "siapa",
+      "english": "who"
+    },
+    "vc0224": {
+      "kanji": "どなた",
+      "kana": "どなた",
+      "romaji": "donata",
+      "indonesia": "siapa (bentuk sopan)",
+      "english": "who (polite form)"
+    },
+    "vc0225": {
+      "kanji": "歳",
+      "kana": "さい",
+      "romaji": "sai",
+      "indonesia": "umur",
+      "english": "-years old"
+    },
+    "vc0226": {
+      "kanji": "何歳",
+      "kana": "なんさい",
+      "romaji": "nansai",
+      "indonesia": "berapa umurnya",
+      "english": "how old"
+    },
+    "vc0227": {
+      "kanji": "おいくつ",
+      "kana": "おいくつ",
+      "romaji": "oikutsu",
+      "indonesia": "berapa umurnya (bentuk sopan)",
+      "english": "how old (polite form)"
+    },
+    "vc0228": {
+      "kanji": "はい",
+      "kana": "はい",
+      "romaji": "hai",
+      "indonesia": "ya",
+      "english": "yes"
+    },
+    "vc0229": {
+      "kanji": "いいえ",
+      "kana": "いいえ",
+      "romaji": "iie",
+      "indonesia": "tidak",
+      "english": "no"
+    },
+    "vc0230": {
+      "kanji": "失礼",
+      "kana": "しつれい",
+      "romaji": "shitsurei",
+      "indonesia": "permisi",
+      "english": "excuse me"
+    },
+    "vc0231": {
+      "kanji": "お名前は",
+      "kana": "おなまえは",
+      "romaji": "onamae wa?",
+      "indonesia": "namanya siapa?",
+      "english": "may i have your name?"
+    },
+    "vc0232": {
+      "kanji": "初めまして",
+      "kana": "はじめまして",
+      "romaji": "hajimemashite",
+      "indonesia": "salam kenal",
+      "english": "how do you do?"
+    },
+    "vc0233": {
+      "kanji": "どうぞよろしく",
+      "kana": "どうぞよろしく",
+      "romaji": "douzo yoroshiku",
+      "indonesia": "senang bertemu anda",
+      "english": "pleased to meet you (lit. please be nice to me)"
+    },
+    "vc0234": {
+      "kanji": "こちらは",
+      "kana": "こちらは",
+      "romaji": "kochira wa",
+      "indonesia": "ini adalah (memperkenalkan)",
+      "english": "this is mr./ ms."
+    },
+    "vc0235": {
+      "kanji": "ーから来ました",
+      "kana": "ーからきました",
+      "romaji": "kara kimashita",
+      "indonesia": "datang dari",
+      "english": "i came from -"
+    }
+  }
+}

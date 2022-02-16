@@ -1,0 +1,312 @@
+{
+  "words": {
+    "vc0301": {
+      "kanji": "これ",
+      "kana": "これ",
+      "romaji": "kore",
+      "indonesia": "ini",
+      "english": "this (thing here)"
+    },
+    "vc0302": {
+      "kanji": "それ",
+      "kana": "それ",
+      "romaji": "sore",
+      "indonesia": "itu (dekat lawan bicara)",
+      "english": "that (thing near you)"
+    },
+    "vc0303": {
+      "kanji": "あれ",
+      "kana": "あれ",
+      "romaji": "are",
+      "indonesia": "itu (jauh dari pembicara dan lawan)",
+      "english": "that (thing over there)"
+    },
+    "vc0304": {
+      "kanji": "この",
+      "kana": "この",
+      "romaji": "kono-",
+      "indonesia": "ini - (diikuti kata benda)",
+      "english": "this - (followed by noun)"
+    },
+    "vc0305": {
+      "kanji": "その",
+      "kana": "その",
+      "romaji": "sono-",
+      "indonesia": "itu - (diikuti kata benda)",
+      "english": "that - (followed by noun)"
+    },
+    "vc0306": {
+      "kanji": "あの",
+      "kana": "あの",
+      "romaji": "ano-",
+      "indonesia": "itu - (diikuti kata benda)",
+      "english": "that - (followed by noun)"
+    },
+    "vc0307": {
+      "kanji": "本",
+      "kana": "ほん",
+      "romaji": "hon",
+      "indonesia": "buku",
+      "english": "book"
+    },
+    "vc0308": {
+      "kanji": "辞書",
+      "kana": "じしょ",
+      "romaji": "jisho",
+      "indonesia": "kamus",
+      "english": "dictionary"
+    },
+    "vc0309": {
+      "kanji": "雑誌",
+      "kana": "ざっし",
+      "romaji": "zasshi",
+      "indonesia": "majalah",
+      "english": "magazine"
+    },
+    "vc0310": {
+      "kanji": "新聞",
+      "kana": "しんぶん",
+      "romaji": "shinbun",
+      "indonesia": "surat kabar",
+      "english": "newspaper"
+    },
+    "vc0311": {
+      "kanji": "ノート",
+      "kana": "ノート",
+      "romaji": "nooto",
+      "indonesia": "buku catatan",
+      "english": "notebook"
+    },
+    "vc0312": {
+      "kanji": "手帳",
+      "kana": "てちょう",
+      "romaji": "techou",
+      "indonesia": "buku agenda",
+      "english": "pocket notebook"
+    },
+    "vc0313": {
+      "kanji": "名刺",
+      "kana": "めいし",
+      "romaji": "meishi",
+      "indonesia": "kartu nama",
+      "english": "business card"
+    },
+    "vc0314": {
+      "kanji": "カード",
+      "kana": "カード",
+      "romaji": "kaado",
+      "indonesia": "kartu",
+      "english": "card"
+    },
+    "vc0315": {
+      "kanji": "テレホンカード",
+      "kana": "テレホンカード",
+      "romaji": "terehon kaado",
+      "indonesia": "kartu telepon",
+      "english": "telephone card"
+    },
+    "vc0316": {
+      "kanji": "鉛筆",
+      "kana": "えんぴつ",
+      "romaji": "enpitsu",
+      "indonesia": "pensil",
+      "english": "pencil"
+    },
+    "vc0317": {
+      "kanji": "ボールペン",
+      "kana": "ボールペン",
+      "romaji": "boorupen",
+      "indonesia": "bolpen",
+      "english": "ballpoint pen"
+    },
+    "vc0318": {
+      "kanji": "シャープペンシル",
+      "kana": "シャープペンシル",
+      "romaji": "shaapupenshiru",
+      "indonesia": "pensil mekanik",
+      "english": "mechanical pen"
+    },
+    "vc0319": {
+      "kanji": "鍵",
+      "kana": "かぎ",
+      "romaji": "kagi",
+      "indonesia": "kunci",
+      "english": "key"
+    },
+    "vc0320": {
+      "kanji": "時計",
+      "kana": "とけい",
+      "romaji": "tokei",
+      "indonesia": "jam",
+      "english": " arloji"
+    },
+    "vc0321": {
+      "kanji": "傘",
+      "kana": "かさ",
+      "romaji": "kasa",
+      "indonesia": "payung",
+      "english": "umbrella"
+    },
+    "vc0322": {
+      "kanji": "鞄",
+      "kana": "かばん",
+      "romaji": "kaban",
+      "indonesia": "tas",
+      "english": "bag"
+    },
+    "vc0323": {
+      "kanji": "テープ",
+      "kana": "テープ",
+      "romaji": "teepu",
+      "indonesia": "tape",
+      "english": " kaset tep"
+    },
+    "vc0324": {
+      "kanji": "テープレコーダー",
+      "kana": "テープレコーダー",
+      "romaji": "teepurekoodaa",
+      "indonesia": "tape recorder",
+      "english": "tape recorder"
+    },
+    "vc0325": {
+      "kanji": "テレビ",
+      "kana": "テレビ",
+      "romaji": "terebi",
+      "indonesia": "televisi",
+      "english": "television"
+    },
+    "vc0326": {
+      "kanji": "ラジオ",
+      "kana": "ラジオ",
+      "romaji": "rajio",
+      "indonesia": "radio",
+      "english": "radio"
+    },
+    "vc0327": {
+      "kanji": "カメラ",
+      "kana": "カメラ",
+      "romaji": "kamera",
+      "indonesia": "kamera",
+      "english": "camera"
+    },
+    "vc0328": {
+      "kanji": "コンピューター",
+      "kana": "コンピューター",
+      "romaji": "konpyuutaa",
+      "indonesia": "komputer",
+      "english": "comuter"
+    },
+    "vc0329": {
+      "kanji": "自動車",
+      "kana": "じどうしゃ",
+      "romaji": "jidousha",
+      "indonesia": "mobil",
+      "english": "automobile"
+    },
+    "vc0330": {
+      "kanji": "机",
+      "kana": "つくえ",
+      "romaji": "tsukue",
+      "indonesia": "meja tulis",
+      "english": "desk"
+    },
+    "vc0331": {
+      "kanji": "椅子",
+      "kana": "いす",
+      "romaji": "isu",
+      "indonesia": "kursi",
+      "english": "chair"
+    },
+    "vc0332": {
+      "kanji": "チョコレート",
+      "kana": "チョコレート",
+      "romaji": "chokoreeto",
+      "indonesia": "coklat",
+      "english": "chocolate"
+    },
+    "vc0333": {
+      "kanji": "コヒー",
+      "kana": "コヒー",
+      "romaji": "koohii",
+      "indonesia": "kopi",
+      "english": "coffee"
+    },
+    "vc0334": {
+      "kanji": "英語",
+      "kana": "えいご",
+      "romaji": "eigo",
+      "indonesia": "bahasa Inggris",
+      "english": "the English language"
+    },
+    "vc0335": {
+      "kanji": "日本語",
+      "kana": "にほんご",
+      "romaji": "nihongo",
+      "indonesia": "bahasa Jepang",
+      "english": "the Japanese language"
+    },
+    "vc0336": {
+      "kanji": "～語",
+      "kana": "～ご",
+      "romaji": "-go",
+      "indonesia": "bahasa",
+      "english": "- language"
+    },
+    "vc0337": {
+      "kanji": "何",
+      "kana": "なん",
+      "romaji": "nan",
+      "indonesia": "apa",
+      "english": "what"
+    },
+    "vc0338": {
+      "kanji": "そう",
+      "kana": "そう",
+      "romaji": "sou",
+      "indonesia": "begitu",
+      "english": "so"
+    },
+    "vc0339": {
+      "kanji": "違います",
+      "kana": "ちがいます",
+      "romaji": "chigaimasu",
+      "indonesia": "bukan./Tidak betul./ Salah.",
+      "english": "no"
+    },
+    "vc0340": {
+      "kanji": "そうですか",
+      "kana": "そうですか",
+      "romaji": "soudesuka",
+      "indonesia": "Begitukah? ",
+      "english": "I see"
+    },
+    "vc0341": {
+      "kanji": "あのう",
+      "kana": "あのう",
+      "romaji": "anou",
+      "indonesia": "Eu… ",
+      "english": "well (used to show hesitation)"
+    },
+    "vc0342": {
+      "kanji": "本の気持ち",
+      "kana": "ほんのきもち",
+      "romaji": "hon no kimochi",
+      "indonesia": "(ini) ungkapan perasaan saya.",
+      "english": "it's a token of my gratitude"
+    },
+    "vc0343": {
+      "kanji": "どうぞ",
+      "kana": "どうぞ",
+      "romaji": "douzo",
+      "indonesia": "Silakan.",
+      "english": "please/ here you are"
+    },
+    "vc0344": {
+      "kanji": "どうも",
+      "kana": "どうも",
+      "romaji": "doumo",
+      "indonesia": "Terima kasih.",
+      "english": "well"
+    }
+  }
+}

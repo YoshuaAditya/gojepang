@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.JapaneseCourseActivity">
+
+    <ImageView
+        android:id="@+id/imageViewPhotoJapaneseCourse"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginBottom="155dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/photo_japanese_course"
+        app:layout_constraintBottom_toTopOf="@+id/textViewInocen"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="8dp"
+        android:background="@color/colorJapaneseCourse"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/textViewInocen"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewPhotoJapaneseCourse">
+
+        <TextView
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:fontFamily="@font/latobold"
+            android:textAlignment="center"
+            android:text="@string/recommendationplace"
+            android:textAllCaps="true"
+            android:textColor="@color/colorWhitePure"
+            android:textSize="12sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+    <ImageView
+        android:id="@+id/imageViewLogoInocen"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/ic_logo_japanese_course"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout1"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout1" />
+
+    <TextView
+        android:id="@+id/textViewInocen"
+        android:layout_width="250dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="45dp"
+        android:layout_marginEnd="49dp"
+        android:fontFamily="@font/latomedium"
+        android:text="@string/tolearnjapaneseinindonesia"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/imageViewLogoInocen"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewPhotoJapaneseCourse" />
+
+    <ScrollView
+        android:layout_width="330dp"
+        android:layout_height="200dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="8dp"
+        android:fillViewport="true"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewInocen">
+
+        <android.support.constraint.ConstraintLayout
+            android:id="@+id/constraintLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/malang"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="25dp"
+                android:fontFamily="@font/latobold"
+                android:text="@string/malang"
+                android:textColor="@color/colorJapaneseCourse"
+                android:textSize="14sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/logoLocation1"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginStart="25dp"
+                android:layout_marginTop="7dp"
+                android:src="@drawable/ic_logo_japanese_course_location"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/malang" />
+
+            <TextView
+                android:id="@+id/naoyuki"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="14dp"
+                android:layout_marginTop="7dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/naoyukiacademiccenter"
+                android:textSize="13sp"
+                app:layout_constraintStart_toEndOf="@+id/logoLocation1"
+                app:layout_constraintTop_toBottomOf="@+id/malang" />
+
+            <TextView
+                android:id="@+id/naoyukilocation"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="60dp"
+                android:layout_marginTop="2dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/naoyukiacademiccenterlocation"
+                android:textSize="12sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/naoyuki" />
+
+            <TextView
+                android:id="@+id/naoyukiphone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="60dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/naoyukiacademiccenterphone"
+                android:textSize="12sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/naoyukilocation" />
+
+            <ImageView
+                android:id="@+id/logoLocation2"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginStart="25dp"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/ic_logo_japanese_course_location"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/naoyukiphone" />
+
+            <TextView
+                android:id="@+id/japanesecafe"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="14dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/japaneseenglishcafe"
+                android:textSize="13sp"
+                app:layout_constraintStart_toEndOf="@+id/logoLocation2"
+                app:layout_constraintTop_toBottomOf="@+id/naoyukiphone" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="60dp"
+                android:layout_marginTop="3dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/japaneseenglishcafelocation"
+                android:textSize="12sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/japanesecafe" />
+
+            <TextView
+                android:id="@+id/japanesecafephone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="60dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/japaneseenglishcafephone"
+                android:textSize="12sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+            <TextView
+                android:id="@+id/Yogyakarta"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="25dp"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/latobold"
+                android:text="@string/yogyakarta"
+                android:textColor="@color/colorJapaneseCourse"
+                android:textSize="14sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/japanesecafephone" />
+
+            <ImageView
+                android:id="@+id/logoLocation3"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginStart="25dp"
+                android:layout_marginTop="7dp"
+                android:src="@drawable/ic_logo_japanese_course_location"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/Yogyakarta" />
+
+            <TextView
+                android:id="@+id/easyjapanese"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="14dp"
+                android:layout_marginTop="7dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/easyjapanese"
+                android:textSize="13sp"
+                app:layout_constraintStart_toEndOf="@+id/logoLocation3"
+                app:layout_constraintTop_toBottomOf="@+id/Yogyakarta" />
+
+            <TextView
+                android:id="@+id/easyjapaneselocation"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="60dp"
+                android:layout_marginTop="3dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/easyjapaneselocation"
+                android:textSize="12sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/easyjapanese" />
+
+            <TextView
+                android:id="@+id/easyjapanesephone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="60dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/easyjapanesephone"
+                android:textSize="12sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/easyjapaneselocation" />
+
+            <ImageView
+                android:id="@+id/logoLocation4"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginStart="25dp"
+                android:layout_marginTop="7dp"
+                android:src="@drawable/ic_logo_japanese_course_location"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/bandung" />
+
+            <TextView
+                android:id="@+id/easyjapanese2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="14dp"
+                android:layout_marginTop="7dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/easyjapaneseprivate"
+                android:textSize="13sp"
+                app:layout_constraintStart_toEndOf="@+id/logoLocation4"
+                app:layout_constraintTop_toBottomOf="@+id/bandung" />
+
+            <TextView
+                android:id="@+id/bandung"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="25dp"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/latobold"
+                android:text="@string/bandung"
+                android:textColor="@color/colorJapaneseCourse"
+                android:textSize="14sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/easyjapanesephone" />
+
+            <TextView
+                android:id="@+id/easyjapanese2location"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="60dp"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/easyjapaneseprivatebandunglocation"
+                android:textSize="12sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/easyjapanese2" />
+
+            <TextView
+                android:id="@+id/easyjapanese2phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="60dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/easyjapaneseprivatebandungphone"
+                android:textSize="12sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/easyjapanese2location" />
+
+            <TextView
+                android:id="@+id/surabaya"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="25dp"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/latobold"
+                android:text="@string/surabaya"
+                android:textColor="@color/colorJapaneseCourse"
+                android:textSize="14sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/easyjapanese2phone" />
+
+            <ImageView
+                android:id="@+id/logoLocation5"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginStart="25dp"
+                android:layout_marginTop="7dp"
+                android:src="@drawable/ic_logo_japanese_course_location"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/surabaya" />
+
+            <TextView
+                android:id="@+id/easyjapanese3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="7dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/easyjapaneseprivate"
+                android:textSize="13sp"
+                app:layout_constraintStart_toEndOf="@+id/logoLocation5"
+                app:layout_constraintTop_toBottomOf="@+id/surabaya" />
+
+            <TextView
+                android:id="@+id/easyjapanese3location"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="60dp"
+                android:layout_marginTop="3dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/easyjapaneseprivatesurabayalocation"
+                android:textSize="12sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/easyjapanese3" />
+
+            <TextView
+                android:id="@+id/easyjapanes3ephone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="60dp"
+                android:fontFamily="@font/latomedium"
+                android:text="@string/easyjapanesephone"
+                android:textSize="12sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/easyjapanese3location" />
+
+            <TextView
+                android:id="@+id/othercities"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="25dp"
+                android:layout_marginTop="15dp"
+                android:fontFamily="@font/latobold"
+                android:text="@string/othercities"
+                android:textColor="@color/colorJapaneseCourse"
+                android:textSize="14sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/easyjapanes3ephone" />
+
+            <TextView
+                android:id="@+id/othercitieslocation"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_marginStart="25dp"
+                android:layout_marginTop="7dp"
+                android:fontFamily="@font/latomedium"
+                android:paddingBottom="40dp"
+                android:text="@string/othercitieslocation"
+                android:textSize="12sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/othercities" />
+        </android.support.constraint.ConstraintLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

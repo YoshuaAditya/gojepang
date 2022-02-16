@@ -1,0 +1,277 @@
+{
+  "words": {
+    "vc0801": {
+      "kanji": "切ります",
+      "kana": "きります",
+      "romaji": "kirimasu",
+      "indonesia": "mengunting, memotong",
+      "english": "cut, slice"
+    },
+    "vc0802": {
+      "kanji": "送ります",
+      "kana": "おくります",
+      "romaji": "okurimasu",
+      "indonesia": "mengirim",
+      "english": "send"
+    },
+    "vc0803": {
+      "kanji": "あげます",
+      "kana": "あげます",
+      "romaji": "agemasu",
+      "indonesia": "memberikan",
+      "english": "give"
+    },
+    "vc0804": {
+      "kanji": "もらいます",
+      "kana": "もらいます",
+      "romaji": "moraimasu",
+      "indonesia": "menerima",
+      "english": "receive"
+    },
+    "vc0805": {
+      "kanji": "貸します",
+      "kana": "かします",
+      "romaji": "kashimasu",
+      "indonesia": "memberi pinjaman",
+      "english": "lend"
+    },
+    "vc0806": {
+      "kanji": "借ります",
+      "kana": "かります",
+      "romaji": "karimasu",
+      "indonesia": "meminjam",
+      "english": "borrow"
+    },
+    "vc0807": {
+      "kanji": "教えます",
+      "kana": "おしえます",
+      "romaji": "oshiemasu",
+      "indonesia": "mengajar",
+      "english": "teach"
+    },
+    "vc0808": {
+      "kanji": "習います",
+      "kana": "ならいます",
+      "romaji": "naraimasu",
+      "indonesia": "belajar",
+      "english": "learn"
+    },
+    "vc0809": {
+      "kanji": "かけます",
+      "kana": "かけます",
+      "romaji": "kakemasu",
+      "indonesia": "menelepon",
+      "english": "call"
+    },
+    "vc0810": {
+      "kanji": "電話をかけます",
+      "kana": "でんわをかけます",
+      "romaji": "denwa o kakemasu",
+      "indonesia": "Lakukan panggilan telepon",
+      "english": "make a telephone call"
+    },
+    "vc0811": {
+      "kanji": "手",
+      "kana": "て",
+      "romaji": "te",
+      "indonesia": "tangan",
+      "english": "hand, arm"
+    },
+    "vc0812": {
+      "kanji": "はし",
+      "kana": "はし",
+      "romaji": "hashi",
+      "indonesia": "sumpit",
+      "english": "chopsticks"
+    },
+    "vc0813": {
+      "kanji": "はさみ",
+      "kana": "はさみ",
+      "romaji": "supuun",
+      "indonesia": "sendok",
+      "english": "spoon"
+    },
+    "vc0814": {
+      "kanji": "ナイフ",
+      "kana": "ナイフ",
+      "romaji": "naifu",
+      "indonesia": "pisau",
+      "english": "knife"
+    },
+    "vc0815": {
+      "kanji": "フォーク",
+      "kana": "フォーク",
+      "romaji": "fooku",
+      "indonesia": "garpu",
+      "english": "fork"
+    },
+    "vc0816": {
+      "kanji": "はさみ",
+      "kana": "はさみ",
+      "romaji": "hasami",
+      "indonesia": "gunting",
+      "english": "scissors"
+    },
+    "vc0817": {
+      "kanji": "ファクス",
+      "kana": "ファクス",
+      "romaji": "fakusu",
+      "indonesia": "fax",
+      "english": "fax"
+    },
+    "vc0818": {
+      "kanji": "ワープロ",
+      "kana": "ワープロ",
+      "romaji": "waapuro",
+      "indonesia": "mesin pengolahan kata",
+      "english": "word processor"
+    },
+    "vc0819": {
+      "kanji": "パソコン",
+      "kana": "パソコン",
+      "romaji": "pasokon",
+      "indonesia": "komputer pribadi",
+      "english": "personal computer"
+    },
+    "vc0820": {
+      "kanji": "パンチ",
+      "kana": "パンチ",
+      "romaji": "panchi",
+      "indonesia": "alat melubangi kertas",
+      "english": "punch (paper hole tool)"
+    },
+    "vc0821": {
+      "kanji": "ホッチキス",
+      "kana": "ホッチキス",
+      "romaji": "hocchimitsu",
+      "indonesia": "stapler",
+      "english": "stapler"
+    },
+    "vc0822": {
+      "kanji": "セロテープ",
+      "kana": "セロテープ",
+      "romaji": "seroteepu",
+      "indonesia": "selotip",
+      "english": "scotch tape"
+    },
+    "vc0823": {
+      "kanji": "けしゴム",
+      "kana": "けしゴム",
+      "romaji": "keshigomu",
+      "indonesia": "karet penghapus",
+      "english": "eraser"
+    },
+    "vc0824": {
+      "kanji": "紙",
+      "kana": "かみ",
+      "romaji": "kami",
+      "indonesia": "kertas",
+      "english": "paper"
+    },
+    "vc0825": {
+      "kanji": "花",
+      "kana": "はな",
+      "romaji": "hana",
+      "indonesia": "bunga",
+      "english": "flower blossom"
+    },
+    "vc0826": {
+      "kanji": "シャツ",
+      "kana": "シャツ",
+      "romaji": "shattsu",
+      "indonesia": "kemeja",
+      "english": "shirt"
+    },
+    "vc0827": {
+      "kanji": "プレゼント",
+      "kana": "プレゼント",
+      "romaji": "purezento",
+      "indonesia": "kado",
+      "english": "present, gift"
+    },
+    "vc0828": {
+      "kanji": "荷物",
+      "kana": "にもつ",
+      "romaji": "nimotsu",
+      "indonesia": "barang",
+      "english": "baggage parcel"
+    },
+    "vc0829": {
+      "kanji": "お金",
+      "kana": "おかね",
+      "romaji": "okane",
+      "indonesia": "uang",
+      "english": "money"
+    },
+    "vc0830": {
+      "kanji": "切符",
+      "kana": "きっぷ",
+      "romaji": "kippu",
+      "indonesia": "karcis",
+      "english": "ticket"
+    },
+    "vc0831": {
+      "kanji": "クリスマス",
+      "kana": "クリスマス",
+      "romaji": "kurisumasu",
+      "indonesia": "natal",
+      "english": "Christmas"
+    },
+    "vc0832": {
+      "kanji": "父",
+      "kana": "ちち",
+      "romaji": "chichi",
+      "indonesia": "ayah (sendiri)",
+      "english": "(my) father"
+    },
+    "vc0833": {
+      "kanji": "母",
+      "kana": "はは",
+      "romaji": "haha",
+      "indonesia": "ibu (sendiri)",
+      "english": "(my) mother"
+    },
+    "vc0834": {
+      "kanji": "お父さん",
+      "kana": "おとうさん",
+      "romaji": "otousan",
+      "indonesia": "ayah (orang lain)",
+      "english": "(someone else's) father"
+    },
+    "vc0835": {
+      "kanji": "お母さん",
+      "kana": "おかあさん",
+      "romaji": "okaasan",
+      "indonesia": "ibu (orang lain)",
+      "english": "(someone else's) mother"
+    },
+    "vc0836": {
+      "kanji": "もう",
+      "kana": "もう",
+      "romaji": "mou",
+      "indonesia": "sudah",
+      "english": "already"
+    },
+    "vc0837": {
+      "kanji": "まだ",
+      "kana": "まだ",
+      "romaji": "mada",
+      "indonesia": "belum",
+      "english": "not yet"
+    },
+    "vc0838": {
+      "kanji": "これから",
+      "kana": "これから",
+      "romaji": "korekara",
+      "indonesia": "mulai dari sekarang",
+      "english": "from now on, soon"
+    },
+    "vc0839": {
+      "kanji": "すてきですね",
+      "kana": "すてきですね",
+      "romaji": "-sutekidesune",
+      "indonesia": "~bagus ya",
+      "english": "nice!"
+    }
+  }
+}

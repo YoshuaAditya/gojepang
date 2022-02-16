@@ -1,0 +1,242 @@
+{
+  "explanationEnglish": "-",
+  "explanationIndonesia": "-",
+  "kanjis": {
+    "vc0601": {
+      "vc0601_0": {
+        "kanji": "六",
+        "indonesia": "enam",
+        "english": "six",
+        "hiraganakun": "むっーつ",
+        "hiraganaon": "ロク",
+        "romajikun": "mutt-tsu",
+        "romajion": "roku"
+      },
+      "vc0601_1": {
+        "kanji": "六つ",
+        "indonesia": "enam buah",
+        "english": "six things",
+        "hiraganakun": "むっつ",
+        "hiraganaon": "-",
+        "romajikun": "mutsu",
+        "romajion": "-"
+      },
+      "vc0601_2": {
+        "kanji": "六月",
+        "indonesia": "Juni",
+        "english": "June",
+        "hiraganakun": "ろくがつ",
+        "hiraganaon": "-",
+        "romajikun": "rokugatsu",
+        "romajion": "-"
+      },
+      "vc0601_3": {
+        "kanji": "六日",
+        "indonesia": "tanggal 6",
+        "english": "the 6th day",
+        "hiraganakun": "むいか",
+        "hiraganaon": "-",
+        "romajikun": "muika",
+        "romajion": "-"
+      },
+      "vc0601_4": {
+        "kanji": "六年",
+        "indonesia": "enam tahun",
+        "english": "six years",
+        "hiraganakun": "ろくねん",
+        "hiraganaon": "-",
+        "romajikun": "rokunen",
+        "romajion": "-"
+      }
+    },
+    "vc0602": {
+      "vc0602_0": {
+        "kanji": "七",
+        "indonesia": "tujuh",
+        "english": "seven",
+        "hiraganakun": "ななーつ, なな",
+        "hiraganaon": "シチ",
+        "romajikun": "nana-tsu, nana",
+        "romajion": "shichi"
+      },
+      "vc0602_1": {
+        "kanji": "七つ",
+        "indonesia": "tujuh buah",
+        "english": "seven things",
+        "hiraganakun": "ななつ",
+        "hiraganaon": "-",
+        "romajikun": "nanatsu",
+        "romajion": "-"
+      },
+      "vc0602_2": {
+        "kanji": "七月",
+        "indonesia": "Juli",
+        "english": "July",
+        "hiraganakun": "なながつ",
+        "hiraganaon": "-",
+        "romajikun": "nanagatsu",
+        "romajion": "-"
+      },
+      "vc0602_3": {
+        "kanji": "七日",
+        "indonesia": "tanggal 7",
+        "english": "the 7th day",
+        "hiraganakun": "なのか",
+        "hiraganaon": "-",
+        "romajikun": "nanoka",
+        "romajion": "-"
+      },
+      "vc0602_4": {
+        "kanji": "七年",
+        "indonesia": "tujuh tahun",
+        "english": "seven years",
+        "hiraganakun": "しちねん",
+        "hiraganaon": "-",
+        "romajikun": "shichinen",
+        "romajion": "-"
+      }
+    },
+    "vc0603": {
+      "vc0603_0": {
+        "kanji": "八",
+        "indonesia": "delapan",
+        "english": "eight",
+        "hiraganakun": "やっーつ",
+        "hiraganaon": "ハチ",
+        "romajikun": "yatt-tsu",
+        "romajion": "hachi"
+      },
+      "vc0603_1": {
+        "kanji": "八つ",
+        "indonesia": "delapan buah",
+        "english": "eight things",
+        "hiraganakun": "やっつ",
+        "hiraganaon": "-",
+        "romajikun": "yattsu",
+        "romajion": "-"
+      },
+      "vc0603_2": {
+        "kanji": "八月",
+        "indonesia": "Agustus",
+        "english": "August",
+        "hiraganakun": "はちがつ",
+        "hiraganaon": "-",
+        "romajikun": "hachigatsu",
+        "romajion": "-"
+      },
+      "vc0603_3": {
+        "kanji": "八日",
+        "indonesia": "tanggal 8",
+        "english": "the 8th day",
+        "hiraganakun": "ようか",
+        "hiraganaon": "-",
+        "romajikun": "youka",
+        "romajion": "-"
+      },
+      "vc0603_4": {
+        "kanji": "八年",
+        "indonesia": "delapan tahun",
+        "english": "eight years",
+        "hiraganakun": "はちねん",
+        "hiraganaon": "-",
+        "romajikun": "hachinen",
+        "romajion": "-"
+      }
+    },
+    "vc0604": {
+      "vc0604_0": {
+        "kanji": "九",
+        "indonesia": "sembilan",
+        "english": "nine",
+        "hiraganakun": "ここのーつ, ここの",
+        "hiraganaon": "ク, キュウ",
+        "romajikun": "kokono-tsu, kokono",
+        "romajion": "-"
+      },
+      "vc0604_1": {
+        "kanji": "九つ",
+        "indonesia": "sembilan buah",
+        "english": "nine things",
+        "hiraganakun": "ここのつ",
+        "hiraganaon": "-",
+        "romajikun": "kokonotsu",
+        "romajion": "-"
+      },
+      "vc0604_2": {
+        "kanji": "九月",
+        "indonesia": "September",
+        "english": "September",
+        "hiraganakun": "くがつ",
+        "hiraganaon": "-",
+        "romajikun": "kugatsu",
+        "romajion": "-"
+      },
+      "vc0604_3": {
+        "kanji": "九日",
+        "indonesia": "tanggal 9",
+        "english": "the 9th day",
+        "hiraganakun": "ここのか",
+        "hiraganaon": "-",
+        "romajikun": "kokonoka",
+        "romajion": "-"
+      },
+      "vc0604_4": {
+        "kanji": "九百",
+        "indonesia": "900",
+        "english": "900",
+        "hiraganakun": "きゅうひゃく",
+        "hiraganaon": "-",
+        "romajikun": "kyuuhyaku",
+        "romajion": "-"
+      }
+    },
+    "vc0605": {
+      "vc0605_0": {
+        "kanji": "十",
+        "indonesia": "sepuluh",
+        "english": "ten ",
+        "hiraganakun": "とお",
+        "hiraganaon": "ジュウ",
+        "romajikun": "too",
+        "romajion": "juu"
+      },
+      "vc0605_1": {
+        "kanji": "十つ",
+        "indonesia": "sepuluh buah",
+        "english": "ten things",
+        "hiraganakun": "とおつ",
+        "hiraganaon": "-",
+        "romajikun": "tootsu",
+        "romajion": "-"
+      },
+      "vc0605_2": {
+        "kanji": "十月",
+        "indonesia": "Oktober",
+        "english": "October",
+        "hiraganakun": "じゅうがつ",
+        "hiraganaon": "-",
+        "romajikun": "juugatsu",
+        "romajion": "-"
+      },
+      "vc0605_3": {
+        "kanji": "十日",
+        "indonesia": "tanggal 10",
+        "english": "the 10th day",
+        "hiraganakun": "とおか",
+        "hiraganaon": "-",
+        "romajikun": "tooka",
+        "romajion": "-"
+      },
+      "vc0605_4": {
+        "kanji": "十年",
+        "indonesia": "sepuluh tahun",
+        "english": "10 years",
+        "hiraganakun": "じゅうねん",
+        "hiraganaon": "-",
+        "romajikun": "juunen",
+        "romajion": "-"
+      }
+    }
+  }
+}
+

@@ -1,0 +1,170 @@
+{
+  "explanationEnglish": "-",
+  "explanationIndonesia": "-",
+  "kanjis": {
+    "vc0301": {
+      "vc0301_0": {
+        "kanji": "‰Î",
+        "indonesia": "api",
+        "english": "fire",
+        "hiraganakun": "‚Ğ",
+        "hiraganaon": "ƒJ",
+        "romajikun": "hi",
+        "romajion": "ka"
+      },
+      "vc0301_1": {
+        "kanji": "‰ÎR",
+        "indonesia": "gunung berapi",
+        "english": "a volcano",
+        "hiraganakun": "‚©‚´‚ñ",
+        "hiraganaon": "-",
+        "romajikun": "kazan",
+        "romajion": "-"
+      },
+      "vc0301_2": {
+        "kanji": "‰Î—j“ú",
+        "indonesia": "hari selasa",
+        "english": "Tuesday",
+        "hiraganakun": "‚©‚æ‚¤‚Ñ",
+        "hiraganaon": "-",
+        "romajikun": "kayoubi",
+        "romajion": "-"
+      },
+      "vc0301_3": {
+        "kanji": "‰Î–",
+        "indonesia": "kebakaran",
+        "english": "a fire",
+        "hiraganakun": "‚©‚¶",
+        "hiraganaon": "-",
+        "romajikun": "kaji",
+        "romajion": "-"
+      }
+    },
+    "vc0302": {
+      "vc0302_0": {
+        "kanji": "…",
+        "indonesia": "air",
+        "english": "water",
+        "hiraganakun": "‚İ‚¸",
+        "hiraganaon": "ƒXƒC",
+        "romajikun": "mizu",
+        "romajion": "sui"
+      },
+      "vc0302_1": {
+        "kanji": "…—j“ú",
+        "indonesia": "hari rabu",
+        "english": "Wednesday",
+        "hiraganakun": "‚·‚¢‚æ‚¤‚Ñ",
+        "hiraganaon": "-",
+        "romajikun": "suiyoubi",
+        "romajion": "-"
+      }
+    },
+    "vc0303": {
+      "vc0303_0": {
+        "kanji": "‹à",
+        "indonesia": "emas, uang",
+        "english": "gold, money",
+        "hiraganakun": "‚©‚Ë",
+        "hiraganaon": "ƒLƒ“",
+        "romajikun": "kane",
+        "romajion": "kin"
+      },
+      "vc0303_1": {
+        "kanji": "‚¨‹à",
+        "indonesia": "uang",
+        "english": "money",
+        "hiraganakun": "‚¨‚©‚Ë",
+        "hiraganaon": "-",
+        "romajikun": "okane",
+        "romajion": "-"
+      },
+      "vc0303_2": {
+        "kanji": "‹à“c",
+        "indonesia": "Kaneda-nama keluarga",
+        "english": "Kaneda-a Japanese surname",
+        "hiraganakun": "‚©‚Ë‚¾",
+        "hiraganaon": "-",
+        "romajikun": "kaneda",
+        "romajion": "-"
+      },
+      "vc0303_3": {
+        "kanji": "‹à—j“ú",
+        "indonesia": "hari jumat",
+        "english": "Friday ",
+        "hiraganakun": "‚«‚ñ‚æ‚¤‚Ñ",
+        "hiraganaon": "-",
+        "romajikun": "kinyoubi",
+        "romajion": "-"
+      }
+    },
+    "vc0304": {
+      "vc0304_0": {
+        "kanji": "“y",
+        "indonesia": "tanah",
+        "english": "soil",
+        "hiraganakun": "‚Â‚¿",
+        "hiraganaon": "ƒh",
+        "romajikun": "tsuchi",
+        "romajion": "do"
+      },
+      "vc0304_1": {
+        "kanji": "“y–Ø",
+        "indonesia": "teknik mesin",
+        "english": "civil engineering",
+        "hiraganakun": "‚Ç‚Ú‚­",
+        "hiraganaon": "-",
+        "romajikun": "doboku",
+        "romajion": "-"
+      },
+      "vc0304_2": {
+        "kanji": "“y—j“ú",
+        "indonesia": "hari sabtu",
+        "english": "Saturday",
+        "hiraganakun": "‚Ç‚æ‚¤‚Ñ",
+        "hiraganaon": "-",
+        "romajikun": "doyoubi",
+        "romajion": "-"
+      }
+    },
+    "vc0305": {
+      "vc0305_0": {
+        "kanji": "q",
+        "indonesia": "anak",
+        "english": "child",
+        "hiraganakun": "‚±",
+        "hiraganaon": "ƒV",
+        "romajikun": "ko",
+        "romajion": "shi"
+      },
+      "vc0305_1": {
+        "kanji": "q‚Ç‚à",
+        "indonesia": "seorang anak",
+        "english": "a child",
+        "hiraganakun": "‚±‚Ç‚à",
+        "hiraganaon": "-",
+        "romajikun": "kodomo",
+        "romajion": "-"
+      },
+      "vc0305_2": {
+        "kanji": "—qŠw¶",
+        "indonesia": "siswi",
+        "english": "a girl student",
+        "hiraganakun": "‚¶‚å‚µ‚ª‚­‚¹‚¢",
+        "hiraganaon": "-",
+        "romajikun": "joshigakusei",
+        "romajion": "-"
+      },
+      "vc0305_3": {
+        "kanji": "—‚Ìq",
+        "indonesia": "anak perempuan",
+        "english": "a girl",
+        "hiraganakun": "‚¨‚ñ‚È‚Ì‚±",
+        "hiraganaon": "-",
+        "romajikun": "onnanoko",
+        "romajion": "-"
+      }
+    }
+  }
+}
+

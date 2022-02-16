@@ -1,0 +1,179 @@
+{
+  "explanationEnglish": "Kanji are characters which express not only sounds but also meanings. Japanese sentences can be written either using Hiragana or Katakana only, but this is not the case with Kanji.\n\nLook  at the following sentences.\n1. ‚í‚½‚µ‚Í ‚É‚Ù‚ñ‚¶‚ñ‚Å‚·B\n2. ƒƒ^ƒV‚Í ƒjƒzƒ“ƒWƒ“ƒfƒXB\n3. „‚Í “ú–{l‚Å‚·B\n\nThe  above three sentences express the same meaning: gI am a Japaneseh, but sentences 1 and 2 are rarely used. Sentence 1 might be used in childrenfs books and sentence 2 in a telegram. Sentence 3 is the one most commonly written in Japanese.\n\nThe  Kanji „ carries not only the sound [watashi] but also the meaning eIf. e “ú–{lf [NIHONJIN] is the Kanji compound which means ga Japaneseh. Roughly speaking, the Kanji in Japanese sentences carry certain concept and Hiragana add the grammatical details to the concepts. It is possible to read Japanese very quickly by picking out the Kanji, thus getting the main concepts of each sentence. Of course, Hiragana are also important in providing understanding of the details of the sentence.\n\nKanji  were introduced from China nearly 2000 years ago. Hiragana and Katakana were made up from certain Kanji in order to represent the Japanese syllabary. Hiragana were formed by simplifying the whole shape of certain Kanji and Katakana were formed from a single part of a Kanji. Usually each Kanji has at least two ways of being read; the so-called eKUN YOMIf (Japanese reading) an eON YOMIf (Chinese reading).\n\nWhen  a single Kanji is used alone as a word, we usually read it by its 'KUN YOMIf (Japanese reading) which gives its meaning. When Kanji are used together with other Kanji to make a word, we often read them by their eON YOMIf (Chinese reading). Generally speaking, however, the way of reading Kanji should be decided according to each individual word. ",
+  "explanationIndonesia": "Kanji are characters which express not only sounds but also meanings. Japanese sentences can be written either using Hiragana or Katakana only, but this is not the case with Kanji.\n\nLook  at the following sentences.\n1. ‚í‚½‚µ‚Í ‚É‚Ù‚ñ‚¶‚ñ‚Å‚·B\n2. ƒƒ^ƒV‚Í ƒjƒzƒ“ƒWƒ“ƒfƒXB\n3. „‚Í “ú–{l‚Å‚·B\n\nThe  above three sentences express the same meaning: gI am a Japaneseh, but sentences 1 and 2 are rarely used. Sentence 1 might be used in childrenfs books and sentence 2 in a telegram. Sentence 3 is the one most commonly written in Japanese.\n\nThe  Kanji „ carries not only the sound [watashi] but also the meaning eIf. e “ú–{lf [NIHONJIN] is the Kanji compound which means ga Japaneseh. Roughly speaking, the Kanji in Japanese sentences carry certain concept and Hiragana add the grammatical details to the concepts. It is possible to read Japanese very quickly by picking out the Kanji, thus getting the main concepts of each sentence. Of course, Hiragana are also important in providing understanding of the details of the sentence.\n\nKanji  were introduced from China nearly 2000 years ago. Hiragana and Katakana were made up from certain Kanji in order to represent the Japanese syllabary. Hiragana were formed by simplifying the whole shape of certain Kanji and Katakana were formed from a single part of a Kanji. Usually each Kanji has at least two ways of being read; the so-called eKUN YOMIf (Japanese reading) an eON YOMIf (Chinese reading).\n\nWhen  a single Kanji is used alone as a word, we usually read it by its 'KUN YOMIf (Japanese reading) which gives its meaning. When Kanji are used together with other Kanji to make a word, we often read them by their eON YOMIf (Chinese reading). Generally speaking, however, the way of reading Kanji should be decided according to each individual word.  ",
+  "kanjis": {
+    "vc0101": {
+      "vc0101_0": {
+        "kanji": "“ú",
+        "indonesia": "matahari, hari",
+        "english": "sun, day",
+        "hiraganakun": "‚Ğ, `‚Ñ, ‚©",
+        "hiraganaon": "ƒjƒ`, “ñ, ƒWƒc",
+        "romajikun": "hi, -bi, ka",
+        "romajion": "nichi, ni, jitsu"
+      },
+      "vc0101_1": {
+        "kanji": "“ú—j“ú",
+        "indonesia": "hari minggu",
+        "english": "Sunday",
+        "hiraganakun": "‚É‚¿‚æ‚¤‚Ñ",
+        "hiraganaon": "-",
+        "romajikun": "nichiyoubi",
+        "romajion": "-"
+      },
+      "vc0101_2": {
+        "kanji": "O“ú",
+        "indonesia": "tanggal 3",
+        "english": "the 3rd day",
+        "hiraganakun": "‚İ‚Á‚©",
+        "hiraganaon": "-",
+        "romajikun": "mikka",
+        "romajion": "-"
+      },
+      "vc0101_3": {
+        "kanji": "“ú–{",
+        "indonesia": "Jepang",
+        "english": "Japan",
+        "hiraganakun": "‚É‚Ù‚ñ",
+        "hiraganaon": "ƒQƒc,ƒKƒc",
+        "romajikun": "nihon",
+        "romajion": "-"
+      }
+    },
+    "vc0102": {
+      "vc0102_0": {
+        "kanji": "Œ",
+        "indonesia": "bulan",
+        "english": "moon, month",
+        "hiraganakun": "‚Â‚«",
+        "hiraganaon": "-",
+        "romajikun": "tsuki",
+        "romajion": "getsu, gatsu"
+      },
+      "vc0102_1": {
+        "kanji": "‚P‚Á‚©Œ",
+        "indonesia": "satu bulan",
+        "english": "one month",
+        "hiraganakun": "‚¢‚Á‚©‚°‚Â",
+        "hiraganaon": "-",
+        "romajikun": "ikkagetsu",
+        "romajion": "-"
+      },
+      "vc0102_2": {
+        "kanji": "Œ—j“ú",
+        "indonesia": "hari senin",
+        "english": "Monday",
+        "hiraganakun": "‚°‚Â‚æ‚¤‚Ñ",
+        "hiraganaon": "-",
+        "romajikun": "getsuyoubi",
+        "romajion": "-"
+      },
+      "vc0102_3": {
+        "kanji": "‚PŒ",
+        "indonesia": "Januari",
+        "english": "January",
+        "hiraganakun": "‚¢‚¿‚ª‚Â",
+        "hiraganaon": "-",
+        "romajikun": "ichigatsu",
+        "romajion": "-"
+      }
+    },
+    "vc0103": {
+      "vc0103_0": {
+        "kanji": "–Ø",
+        "indonesia": "pohon",
+        "english": "tree",
+        "hiraganakun": "‚«",
+        "hiraganaon": "ƒ‚ƒN",
+        "romajikun": "ki",
+        "romajion": "moku"
+      },
+      "vc0103_1": {
+        "kanji": "–Ø—j“ú",
+        "indonesia": "hari kamis",
+        "english": "Thursday",
+        "hiraganakun": "‚à‚­‚æ‚¤‚Ñ",
+        "hiraganaon": "-",
+        "romajikun": "mokuyoubi",
+        "romajion": "-"
+      },
+      "vc0103_2": {
+        "kanji": "–Ø‘º",
+        "indonesia": "Kimura -nama keluarga ",
+        "english": "Kimura-a Japanese surname",
+        "hiraganakun": "‚«‚Ş‚ç",
+        "hiraganaon": "-",
+        "romajikun": "kimura",
+        "romajion": "-"
+      }
+    },
+    "vc0104": {
+      "vc0104_0": {
+        "kanji": "R",
+        "indonesia": "gunung",
+        "english": "mountain",
+        "hiraganakun": "‚â‚Ü",
+        "hiraganaon": "ƒTƒ“,`ƒUƒ“",
+        "romajikun": "yama",
+        "romajion": "san, -zan"
+      },
+      "vc0104_1": {
+        "kanji": "•xmR",
+        "indonesia": "fujisan",
+        "english": "Mt. Fuji",
+        "hiraganakun": "‚Ó‚¶‚³‚ñ",
+        "hiraganaon": "-",
+        "romajikun": "fujisan",
+        "romajion": "-"
+      },
+      "vc0104_2": {
+        "kanji": "R‰º",
+        "indonesia": "yamashita-nama keluarga",
+        "english": "Yamashita-a Japanese surname",
+        "hiraganakun": "‚â‚Ü‚µ‚½",
+        "hiraganaon": "-",
+        "romajikun": "yamashita",
+        "romajion": "-"
+      },
+      "vc0104_3": {
+        "kanji": "‰ÎR",
+        "indonesia": "gunung berapi",
+        "english": "a volcano",
+        "hiraganakun": "‚©‚´‚ñ",
+        "hiraganaon": "-",
+        "romajikun": "kazan",
+        "romajion": "-"
+      }
+    },
+    "vc0105": {
+      "vc0105_0": {
+        "kanji": "ì",
+        "indonesia": "sungai",
+        "english": "river",
+        "hiraganakun": "‚©‚í",
+        "hiraganaon": "-",
+        "romajikun": "kawa",
+        "romajion": "-"
+      },
+      "vc0105_1": {
+        "kanji": "¬ì",
+        "indonesia": "aliran sungai",
+        "english": "a brook, a stream",
+        "hiraganakun": "‚¨‚ª‚í",
+        "hiraganaon": "-",
+        "romajikun": "ogawa",
+        "romajion": "-"
+      },
+      "vc0105_2": {
+        "kanji": "ƒiƒCƒ‹ì",
+        "indonesia": "sungai Nil",
+        "english": "the Nile river ",
+        "hiraganakun": "ƒiƒCƒ‹‚ª‚í",
+        "hiraganaon": "ƒfƒ“",
+        "romajikun": "nairu gawa",
+        "romajion": "-"
+      }
+    }
+  }
+}
+

@@ -1,0 +1,197 @@
+{
+  "explanationEnglish": "-",
+  "explanationIndonesia": "-",
+  "kanjis": {
+    "vc0701": {
+      "vc0701_0": {
+        "kanji": "•S",
+        "indonesia": "ratusan",
+        "english": "hundred",
+        "hiraganakun": "-",
+        "hiraganaon": "ƒqƒƒƒN, [ƒrƒƒƒN, [ƒsƒƒƒN",
+        "romajikun": "-",
+        "romajion": "hyaku, ~byaku, ~pyaku"
+      },
+      "vc0701_1": {
+        "kanji": "“ñ•S",
+        "indonesia": "200",
+        "english": "200",
+        "hiraganakun": "‚É‚Ğ‚á‚­",
+        "hiraganaon": "-",
+        "romajikun": "nihyaku",
+        "romajion": "-"
+      },
+      "vc0701_2": {
+        "kanji": "˜Z•S",
+        "indonesia": "600",
+        "english": "600",
+        "hiraganakun": "‚ë‚Á‚Ò‚á‚­",
+        "hiraganaon": "-",
+        "romajikun": "roppyaku",
+        "romajion": "-"
+      },
+      "vc0701_3": {
+        "kanji": "˜Z“ú",
+        "indonesia": "tanggal 6",
+        "english": "the 6th day",
+        "hiraganakun": "‚Ş‚¢‚©",
+        "hiraganaon": "-",
+        "romajikun": "muika",
+        "romajion": "-"
+      },
+      "vc0701_4": {
+        "kanji": "O•S",
+        "indonesia": "300",
+        "english": "300",
+        "hiraganakun": "‚³‚ñ‚Ñ‚á‚­",
+        "hiraganaon": "-",
+        "romajikun": "sanbyaku",
+        "romajion": "-"
+      },
+      "vc0701_5": {
+        "kanji": "”ª•S",
+        "indonesia": "800",
+        "english": "800",
+        "hiraganakun": "‚Í‚Á‚Ò‚á‚­",
+        "hiraganaon": "-",
+        "romajikun": "happyaku",
+        "romajion": "-"
+      }
+    },
+    "vc0702": {
+      "vc0702_0": {
+        "kanji": "ç",
+        "indonesia": "ribuan",
+        "english": "thousand",
+        "hiraganakun": "‚¿",
+        "hiraganaon": "ƒZƒ“, `ƒ[ƒ“",
+        "romajikun": "chi",
+        "romajion": "sen, ~zen"
+      },
+      "vc0702_1": {
+        "kanji": "ç—t",
+        "indonesia": "Prefektur Chiba",
+        "english": "Chiba prefecture",
+        "hiraganakun": "‚¿‚Î",
+        "hiraganaon": "-",
+        "romajikun": "Chiba",
+        "romajion": "-"
+      },
+      "vc0702_2": {
+        "kanji": "Oç",
+        "indonesia": "3000",
+        "english": "3000",
+        "hiraganakun": "‚³‚ñ‚º‚ñ",
+        "hiraganaon": "-",
+        "romajikun": "san zen",
+        "romajion": "-"
+      },
+      "vc0702_3": {
+        "kanji": "ç‰~",
+        "indonesia": "1000 yen",
+        "english": "a thousand yen",
+        "hiraganakun": "‚¹‚ñ‚¦‚ñ",
+        "hiraganaon": "-",
+        "romajikun": "senen",
+        "romajion": "-"
+      }
+    },
+    "vc0703": {
+      "vc0703_0": {
+        "kanji": "–œ",
+        "indonesia": "puluhan ribu",
+        "english": "ten thousand all every",
+        "hiraganakun": "-",
+        "hiraganaon": "ƒ}ƒ“",
+        "romajikun": "-",
+        "romajion": "man"
+      },
+      "vc0703_1": {
+        "kanji": "ˆê–œ‰~",
+        "indonesia": "10000 yen",
+        "english": "ten thousand yen",
+        "hiraganakun": "‚¢‚¿‚Ü‚ñ‚¦‚ñ",
+        "hiraganaon": "-",
+        "romajikun": "ichi man en",
+        "romajion": "-"
+      },
+      "vc0703_2": {
+        "kanji": "•S–œl",
+        "indonesia": "1 juta orang",
+        "english": "one million people",
+        "hiraganakun": "‚Ğ‚á‚­‚Ü‚ñ‚É‚ñ",
+        "hiraganaon": "-",
+        "romajikun": "hyaku man nin",
+        "romajion": "-"
+      }
+    },
+    "vc0704": {
+      "vc0704_0": {
+        "kanji": "‰~",
+        "indonesia": "yen",
+        "english": "yen",
+        "hiraganakun": "-",
+        "hiraganaon": "ƒGƒ“",
+        "romajikun": "-",
+        "romajion": "en"
+      },
+      "vc0704_1": {
+        "kanji": "•S‰~",
+        "indonesia": "100 yen",
+        "english": "100 yen",
+        "hiraganakun": "‚Ğ‚á‚­‚¦‚ñ",
+        "hiraganaon": "-",
+        "romajikun": "hyakuen",
+        "romajion": "-"
+      },
+      "vc0704_2": {
+        "kanji": "ŒÜç‰~",
+        "indonesia": "5000 yen",
+        "english": "5000 yen ",
+        "hiraganakun": "‚²‚¹‚ñ‚¦‚ñ",
+        "hiraganaon": "-",
+        "romajikun": "go sen en",
+        "romajion": "-"
+      }
+    },
+    "vc0705": {
+      "vc0705_0": {
+        "kanji": "”N",
+        "indonesia": "tahun, umur",
+        "english": "year, age",
+        "hiraganakun": "‚Æ‚µ",
+        "hiraganaon": "ƒlƒ“",
+        "romajikun": "toshi",
+        "romajion": "nen"
+      },
+      "vc0705_1": {
+        "kanji": "‹”N",
+        "indonesia": "tahun lalu",
+        "english": "last year",
+        "hiraganakun": "‚«‚å‚Ë‚ñ",
+        "hiraganaon": "-",
+        "romajikun": "kyonen",
+        "romajion": "-"
+      },
+      "vc0705_2": {
+        "kanji": "”Nã",
+        "indonesia": "orang tua",
+        "english": "elder",
+        "hiraganakun": "‚Æ‚µ‚¤‚¦",
+        "hiraganaon": "-",
+        "romajikun": "toshi ue",
+        "romajion": "-"
+      },
+      "vc0705_3": {
+        "kanji": "—ˆ”N",
+        "indonesia": "tahun depan",
+        "english": "next year",
+        "hiraganakun": "‚ç‚¢‚Ë‚ñ",
+        "hiraganaon": "-",
+        "romajikun": "rainen",
+        "romajion": "-"
+      }
+    }
+  }
+}
+

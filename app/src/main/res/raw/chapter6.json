@@ -1,0 +1,375 @@
+{
+  "words": {
+    "vc0601": {
+      "kanji": "行きます",
+      "kana": "いきます",
+      "romaji": "ikimasu",
+      "indonesia": "pergi",
+      "english": "go"
+    },
+    "vc0602": {
+      "kanji": "来ます",
+      "kana": "きます",
+      "romaji": "kimasu",
+      "indonesia": "datang",
+      "english": "come"
+    },
+    "vc0603": {
+      "kanji": "帰ります",
+      "kana": "かえります",
+      "romaji": "kaerimasu",
+      "indonesia": "pulang",
+      "english": "go home, return"
+    },
+    "vc0604": {
+      "kanji": "学校",
+      "kana": "がっこう",
+      "romaji": "gakkou",
+      "indonesia": "sekolah",
+      "english": "school"
+    },
+    "vc0605": {
+      "kanji": "スーパー",
+      "kana": "スーパー",
+      "romaji": "suupaa",
+      "indonesia": "swalayan",
+      "english": "supermarket"
+    },
+    "vc0606": {
+      "kanji": "駅",
+      "kana": "えき",
+      "romaji": "eki",
+      "indonesia": "stasiun kereta",
+      "english": "station"
+    },
+    "vc0607": {
+      "kanji": "飛行機",
+      "kana": "ひこうき",
+      "romaji": "hikouki",
+      "indonesia": "pesawat",
+      "english": "airplane"
+    },
+    "vc0608": {
+      "kanji": "船",
+      "kana": "ふね",
+      "romaji": "fune",
+      "indonesia": "kapal",
+      "english": "ship"
+    },
+    "vc0609": {
+      "kanji": "電車",
+      "kana": "でんしゃ",
+      "romaji": "densha",
+      "indonesia": "kereta",
+      "english": "electric train"
+    },
+    "vc0610": {
+      "kanji": "地下鉄",
+      "kana": "ちかてつ",
+      "romaji": "chikatetsu",
+      "indonesia": "kereta bawah tanah",
+      "english": "subway underground"
+    },
+    "vc0611": {
+      "kanji": "新幹線",
+      "kana": "しんかんせん",
+      "romaji": "shinkansen",
+      "indonesia": "kereta cepat",
+      "english": "the bullet train"
+    },
+    "vc0612": {
+      "kanji": "バス",
+      "kana": "バス",
+      "romaji": "basu",
+      "indonesia": "bis",
+      "english": "bus"
+    },
+    "vc0613": {
+      "kanji": "タクシー",
+      "kana": "タクシー",
+      "romaji": "takushii",
+      "indonesia": "taksi",
+      "english": "taxi"
+    },
+    "vc0614": {
+      "kanji": "自転車",
+      "kana": "じてんしゃ",
+      "romaji": "jitensha",
+      "indonesia": "sepeda",
+      "english": "bicycle"
+    },
+    "vc0615": {
+      "kanji": "歩いて",
+      "kana": "あるいて",
+      "romaji": "aruite",
+      "indonesia": "jalan kaki",
+      "english": "on foot"
+    },
+    "vc0616": {
+      "kanji": "人",
+      "kana": "ひと",
+      "romaji": "hito",
+      "indonesia": "orang",
+      "english": "person people"
+    },
+    "vc0617": {
+      "kanji": "友達",
+      "kana": "ともだち",
+      "romaji": "tomodachi",
+      "indonesia": "teman",
+      "english": "friend"
+    },
+    "vc0618": {
+      "kanji": "彼",
+      "kana": "かれ",
+      "romaji": "kare",
+      "indonesia": "dia (laki laki)",
+      "english": "he, boyfriend"
+    },
+    "vc0619": {
+      "kanji": "彼女",
+      "kana": "かのじょ",
+      "romaji": "kanojo",
+      "indonesia": "dia (perempuan)",
+      "english": "she, girfriend"
+    },
+    "vc0620": {
+      "kanji": "家族",
+      "kana": "かぞく",
+      "romaji": "kazoku",
+      "indonesia": "keluarga",
+      "english": "family"
+    },
+    "vc0621": {
+      "kanji": "一人で",
+      "kana": "ひとりで",
+      "romaji": "hitoride",
+      "indonesia": "seorang diri",
+      "english": "alone"
+    },
+    "vc0622": {
+      "kanji": "先週",
+      "kana": "せんしゅう",
+      "romaji": "senshuu",
+      "indonesia": "minggu lalu",
+      "english": "last week"
+    },
+    "vc0623": {
+      "kanji": "今週",
+      "kana": "こんしゅう",
+      "romaji": "konshuu",
+      "indonesia": "minggu ini",
+      "english": "this week"
+    },
+    "vc0624": {
+      "kanji": "来週",
+      "kana": "らいしゅう",
+      "romaji": "raishuu",
+      "indonesia": "minggu depan",
+      "english": "next week"
+    },
+    "vc0625": {
+      "kanji": "先月",
+      "kana": "せんげつ",
+      "romaji": "sengetsu",
+      "indonesia": "bulan lalu",
+      "english": "last month"
+    },
+    "vc0626": {
+      "kanji": "今月",
+      "kana": "こんげつ",
+      "romaji": "kongetsu",
+      "indonesia": "bulan ini",
+      "english": "this month"
+    },
+    "vc0627": {
+      "kanji": "来月",
+      "kana": "らいげつ",
+      "romaji": "raigetsu",
+      "indonesia": "bulan depan",
+      "english": "next month"
+    },
+    "vc0628": {
+      "kanji": "去年",
+      "kana": "きょねん",
+      "romaji": "kyonen",
+      "indonesia": "tahun lalu",
+      "english": "last year"
+    },
+    "vc0629": {
+      "kanji": "今年",
+      "kana": "ことし",
+      "romaji": "kotoshi",
+      "indonesia": "tahun ini",
+      "english": "this year"
+    },
+    "vc0630": {
+      "kanji": "来年",
+      "kana": "らいねん",
+      "romaji": "rainen",
+      "indonesia": "tahun depan",
+      "english": "next year"
+    },
+    "vc0631": {
+      "kanji": "ー月",
+      "kana": "～がつ",
+      "romaji": "-gatsu",
+      "indonesia": "bulan",
+      "english": "-month"
+    },
+    "vc0632": {
+      "kanji": "何月",
+      "kana": "なんがつ",
+      "romaji": "nangatsu",
+      "indonesia": "bulan apa?",
+      "english": "what month"
+    },
+    "vc0633": {
+      "kanji": "1日",
+      "kana": "ついたち",
+      "romaji": "tsuitachi",
+      "indonesia": "tanggal 1",
+      "english": "first day of the month"
+    },
+    "vc0634": {
+      "kanji": "2日",
+      "kana": "ふつか",
+      "romaji": "futsuka",
+      "indonesia": "tanggal 2 ",
+      "english": "second day"
+    },
+    "vc0635": {
+      "kanji": "3日",
+      "kana": "みっか",
+      "romaji": "mikka",
+      "indonesia": "tanggal 3",
+      "english": "third day"
+    },
+    "vc0636": {
+      "kanji": "4日",
+      "kana": "よっか",
+      "romaji": "yokka",
+      "indonesia": "tanggal 4",
+      "english": "fourth day"
+    },
+    "vc0637": {
+      "kanji": "5日",
+      "kana": "いつか",
+      "romaji": "itsuka",
+      "indonesia": "tanggal 5",
+      "english": "fifth day"
+    },
+    "vc0638": {
+      "kanji": "6日",
+      "kana": "むいか",
+      "romaji": "muika",
+      "indonesia": "tanggal 6",
+      "english": "sixth day"
+    },
+    "vc0639": {
+      "kanji": "7日",
+      "kana": "なのか",
+      "romaji": "nanoka",
+      "indonesia": "tanggal 7",
+      "english": "seventh day"
+    },
+    "vc0640": {
+      "kanji": "8日",
+      "kana": "ようか",
+      "romaji": "youka",
+      "indonesia": "tanggal 8",
+      "english": "eighth day"
+    },
+    "vc0641": {
+      "kanji": "9日",
+      "kana": "ここのか",
+      "romaji": "kokonoka",
+      "indonesia": "tanggal 9",
+      "english": "ninth day"
+    },
+    "vc0642": {
+      "kanji": "10日",
+      "kana": "とおか",
+      "romaji": "tooka",
+      "indonesia": "tanggal 10",
+      "english": "tenth day"
+    },
+    "vc0643": {
+      "kanji": "14日",
+      "kana": "じゅうよっか",
+      "romaji": "juu yokka",
+      "indonesia": "tanggal 14",
+      "english": "fourteenth day"
+    },
+    "vc0644": {
+      "kanji": "20日",
+      "kana": "はつか",
+      "romaji": "hatsuka",
+      "indonesia": "tanggal 20",
+      "english": "twentieth day"
+    },
+    "vc0645": {
+      "kanji": "24日",
+      "kana": "にじゅよっか",
+      "romaji": "nijuu yokka",
+      "indonesia": "tanggal 24",
+      "english": "twenty fourth day"
+    },
+    "vc0646": {
+      "kanji": "ー日",
+      "kana": "ーにち",
+      "romaji": "-nichi",
+      "indonesia": "tangal - atau hari",
+      "english": "-the day of the month"
+    },
+    "vc0647": {
+      "kanji": "何日",
+      "kana": "なんにち",
+      "romaji": "nannichi",
+      "indonesia": "tanggal berapa",
+      "english": "which day"
+    },
+    "vc0648": {
+      "kanji": "いつ",
+      "kana": "いつ",
+      "romaji": "itsu",
+      "indonesia": "kapan",
+      "english": "when"
+    },
+    "vc0649": {
+      "kanji": "誕生日",
+      "kana": "たんじょうび",
+      "romaji": "tanjoubi",
+      "indonesia": "hari ulang tahun",
+      "english": "birthday"
+    },
+    "vc0650": {
+      "kanji": "普通",
+      "kana": "ふつう",
+      "romaji": "futsuu",
+      "indonesia": "biasa",
+      "english": "usually"
+    },
+    "vc0651": {
+      "kanji": "急行",
+      "kana": "きゅうこう",
+      "romaji": "kyuukou",
+      "indonesia": "kereta lebih cepat",
+      "english": "rapid train"
+    },
+    "vc0652": {
+      "kanji": "特急",
+      "kana": "とっきゅう",
+      "romaji": "tokkyuu",
+      "indonesia": "kereta ekspress",
+      "english": "express train"
+    },
+    "vc0653": {
+      "kanji": "次の",
+      "kana": "つぎの",
+      "romaji": "tsugino",
+      "indonesia": "berikutnya",
+      "english": "next"
+    }
+  }
+}

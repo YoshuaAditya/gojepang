@@ -1,0 +1,305 @@
+{
+  "words": {
+    "vc1101": {
+      "kanji": "います",
+      "kana": "います",
+      "romaji": "imasu",
+      "indonesia": "ada (utk benda hidup)",
+      "english": "exist be (to animate things)"
+    },
+    "vc1102": {
+      "kanji": "あります",
+      "kana": "あります",
+      "romaji": "arimasu",
+      "indonesia": "ada (utk benda mati)",
+      "english": "exist be (to inanimate things)"
+    },
+    "vc1103": {
+      "kanji": "いろいろ「な」",
+      "kana": "いろいろ「な」",
+      "romaji": "iroiro [na]",
+      "indonesia": "bermacam-macam",
+      "english": "Various"
+    },
+    "vc1104": {
+      "kanji": "男の人",
+      "kana": "おとこのひと",
+      "romaji": "otoko no hito",
+      "indonesia": "laki-laki",
+      "english": "Man"
+    },
+    "vc1105": {
+      "kanji": "女の人",
+      "kana": "おんなのひと",
+      "romaji": "onna no hito ",
+      "indonesia": "wanita",
+      "english": "Woman"
+    },
+    "vc1106": {
+      "kanji": "男の子",
+      "kana": "おとこのこ",
+      "romaji": "otoko no ko",
+      "indonesia": "anak laki-laki",
+      "english": "Boy"
+    },
+    "vc1107": {
+      "kanji": "女の子",
+      "kana": "おんなのこ",
+      "romaji": "onna no ko",
+      "indonesia": "anak perempuan",
+      "english": "Girl"
+    },
+    "vc1108": {
+      "kanji": "犬",
+      "kana": "いぬ",
+      "romaji": "inu",
+      "indonesia": "anjing",
+      "english": "Dog"
+    },
+    "vc1109": {
+      "kanji": "猫",
+      "kana": "ねこ",
+      "romaji": "neko",
+      "indonesia": "kucing",
+      "english": "Cat"
+    },
+    "vc1110": {
+      "kanji": "木",
+      "kana": "き",
+      "romaji": "ki",
+      "indonesia": "pohon kayu",
+      "english": "Tree"
+    },
+    "vc1111": {
+      "kanji": "物",
+      "kana": "もの",
+      "romaji": "mono",
+      "indonesia": "barang",
+      "english": "Thing"
+    },
+    "vc1112": {
+      "kanji": "フィルム",
+      "kana": "フィルム",
+      "romaji": "firumu",
+      "indonesia": "film",
+      "english": "film"
+    },
+    "vc1113": {
+      "kanji": "電池",
+      "kana": "でんち",
+      "romaji": "denchi",
+      "indonesia": "baterai",
+      "english": "Battery"
+    },
+    "vc1114": {
+      "kanji": "箱",
+      "kana": "ほこ",
+      "romaji": "hako",
+      "indonesia": "kotak peti",
+      "english": "Box"
+    },
+    "vc1115": {
+      "kanji": "スイッチ",
+      "kana": "スイッチ",
+      "romaji": "suicchi",
+      "indonesia": "tombol",
+      "english": ""
+    },
+    "vc1116": {
+      "kanji": "冷蔵庫",
+      "kana": "れいぞうこ",
+      "romaji": "reizouko",
+      "indonesia": "kulkas lemari es",
+      "english": "Refridgerator"
+    },
+    "vc1117": {
+      "kanji": "テーブル",
+      "kana": "テーブル",
+      "romaji": "teeburu",
+      "indonesia": "meja",
+      "english": "table"
+    },
+    "vc1118": {
+      "kanji": "ベッド",
+      "kana": "ベッド",
+      "romaji": "beddo",
+      "indonesia": "tempat tidur",
+      "english": "bed"
+    },
+    "vc1119": {
+      "kanji": "棚",
+      "kana": "たな",
+      "romaji": "tana",
+      "indonesia": "lemari",
+      "english": "shelf"
+    },
+    "vc1120": {
+      "kanji": "ドア",
+      "kana": "ドア",
+      "romaji": "doa",
+      "indonesia": "pintu",
+      "english": "door"
+    },
+    "vc1121": {
+      "kanji": "窓",
+      "kana": "まど",
+      "romaji": "mado",
+      "indonesia": "jendela",
+      "english": "window"
+    },
+    "vc1122": {
+      "kanji": "ポスト",
+      "kana": "ポスト",
+      "romaji": "posuto",
+      "indonesia": "kotak pos",
+      "english": "mailbox, postbox"
+    },
+    "vc1123": {
+      "kanji": "ビル",
+      "kana": "ビル",
+      "romaji": "biru",
+      "indonesia": "gedung",
+      "english": "building"
+    },
+    "vc1124": {
+      "kanji": "公園",
+      "kana": "こうえん",
+      "romaji": "kouen",
+      "indonesia": "taman",
+      "english": "Park"
+    },
+    "vc1125": {
+      "kanji": "喫茶店",
+      "kana": "きっさてん",
+      "romaji": "kissaten",
+      "indonesia": "coffee shop",
+      "english": "Coffee Shop"
+    },
+    "vc1126": {
+      "kanji": "本屋",
+      "kana": "ほんや",
+      "romaji": "honya",
+      "indonesia": "toko buku",
+      "english": "Book Shop"
+    },
+    "vc1127": {
+      "kanji": "～や",
+      "kana": "～や",
+      "romaji": "-ya",
+      "indonesia": "toko-",
+      "english": "~shop"
+    },
+    "vc1128": {
+      "kanji": "乗り場",
+      "kana": "のりば",
+      "romaji": "noriba",
+      "indonesia": "tempat naik",
+      "english": "Fixed place for taxies and buses"
+    },
+    "vc1129": {
+      "kanji": "県",
+      "kana": "けん",
+      "romaji": "ken",
+      "indonesia": "prefektur",
+      "english": "Perfecture"
+    },
+    "vc1130": {
+      "kanji": "上",
+      "kana": "うえ",
+      "romaji": "ue",
+      "indonesia": "atas",
+      "english": "On above, over"
+    },
+    "vc1131": {
+      "kanji": "下",
+      "kana": "した",
+      "romaji": "shita",
+      "indonesia": "bawah",
+      "english": "Under below, beneath"
+    },
+    "vc1132": {
+      "kanji": "前",
+      "kana": "まえ",
+      "romaji": "mae",
+      "indonesia": "depan",
+      "english": "Front, before"
+    },
+    "vc1133": {
+      "kanji": "うしろ",
+      "kana": "うしろ",
+      "romaji": "ushiro",
+      "indonesia": "belakang",
+      "english": "Back, Behind"
+    },
+    "vc1134": {
+      "kanji": "右",
+      "kana": "みぎ",
+      "romaji": "migi",
+      "indonesia": "kanan",
+      "english": "Right"
+    },
+    "vc1135": {
+      "kanji": "左",
+      "kana": "ひだり",
+      "romaji": "hidari",
+      "indonesia": "kiri",
+      "english": "Left"
+    },
+    "vc1136": {
+      "kanji": "中",
+      "kana": "なか",
+      "romaji": "naka",
+      "indonesia": "dalam",
+      "english": "In, inside"
+    },
+    "vc1137": {
+      "kanji": "外",
+      "kana": "そと",
+      "romaji": "soto",
+      "indonesia": "luar",
+      "english": "Outside"
+    },
+    "vc1138": {
+      "kanji": "隣",
+      "kana": "となり",
+      "romaji": "tonari",
+      "indonesia": "sebelah",
+      "english": "Next, next door"
+    },
+    "vc1139": {
+      "kanji": "近く",
+      "kana": "ちかく",
+      "romaji": "chikaku",
+      "indonesia": "dekat",
+      "english": "Near vicinity"
+    },
+    "vc1140": {
+      "kanji": "間",
+      "kana": "あいだ",
+      "romaji": "aida",
+      "indonesia": "antara",
+      "english": "Between, middle"
+    },
+    "vc1141": {
+      "kanji": "～や～など",
+      "kana": "～や～など",
+      "romaji": "-ya-nado",
+      "indonesia": "dan lain-lain",
+      "english": "~ ~ and so on"
+    },
+    "vc1142": {
+      "kanji": "いちばん",
+      "kana": "いちばん",
+      "romaji": "ichiban-",
+      "indonesia": "paling -",
+      "english": "the most ~"
+    },
+    "vc1143": {
+      "kanji": "～段目",
+      "kana": "～だんめ",
+      "romaji": "-danme",
+      "indonesia": "tingkat yang ke - (utk lemari)",
+      "english": "the -th shelf "
+    }
+  }
+}

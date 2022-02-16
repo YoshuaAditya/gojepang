@@ -1,0 +1,161 @@
+{
+  "explanationEnglish": "-",
+  "explanationIndonesia": "-",
+  "kanjis": {
+    "vc0801": {
+      "vc0801_0": {
+        "kanji": "上",
+        "indonesia": "di atas",
+        "english": "above on up superior",
+        "hiraganakun": "うえ, あーがる, のぼーる, あーげる",
+        "hiraganaon": "ジュウ",
+        "romajikun": "ue, a-agaru, nobo-ru",
+        "romajion": "juu"
+      },
+      "vc0801_1": {
+        "kanji": "上る",
+        "indonesia": "untuk naik",
+        "english": "to go up",
+        "hiraganakun": "のぼる",
+        "hiraganaon": "-",
+        "romajikun": "noboru",
+        "romajion": "-"
+      },
+      "vc0801_2": {
+        "kanji": "上がる",
+        "indonesia": "untuk naik, bangkit",
+        "english": "to go up, to rise",
+        "hiraganakun": "あがる",
+        "hiraganaon": "-",
+        "romajikun": "agaru",
+        "romajion": "-"
+      },
+      "vc0801_3": {
+        "kanji": "上手",
+        "indonesia": "pandai, pintar",
+        "english": "skillful",
+        "hiraganakun": "じょうず",
+        "hiraganaon": "-",
+        "romajikun": "jouzu",
+        "romajion": "-"
+      }
+    },
+    "vc0802": {
+      "vc0802_0": {
+        "kanji": "下",
+        "indonesia": "di bawah",
+        "english": "under, down",
+        "hiraganakun": "した, さーがる, くだーる, さーげる",
+        "hiraganaon": "カ, ゲ",
+        "romajikun": "shita, sa-garu, kuda-ru",
+        "romajion": "ka, ge"
+      },
+      "vc0802_1": {
+        "kanji": "地下",
+        "indonesia": "bawah tanah",
+        "english": "underground",
+        "hiraganakun": "ちか",
+        "hiraganaon": "-",
+        "romajikun": "chika",
+        "romajion": "-"
+      },
+      "vc0802_2": {
+        "kanji": "下がる",
+        "indonesia": "ke bawah",
+        "english": "to go down",
+        "hiraganakun": "さがる",
+        "hiraganaon": "-",
+        "romajikun": "sagaru",
+        "romajion": "-"
+      },
+      "vc0802_3": {
+        "kanji": "下車する",
+        "indonesia": "turun",
+        "english": "to get off",
+        "hiraganakun": "げしゃする",
+        "hiraganaon": "-",
+        "romajikun": "geshasuru",
+        "romajion": "-"
+      }
+    },
+    "vc0803": {
+      "vc0803_0": {
+        "kanji": "中",
+        "indonesia": "tengah, di dalam",
+        "english": "middle, inside",
+        "hiraganakun": "なか",
+        "hiraganaon": "チュウ, ージュウ",
+        "romajikun": "naka",
+        "romajion": "chuu, ~juu"
+      },
+      "vc0803_1": {
+        "kanji": "一日中",
+        "indonesia": "satu hari penuh",
+        "english": "all day long",
+        "hiraganakun": "いちにちじゅう",
+        "hiraganaon": "-",
+        "romajikun": "ichi nichi juu",
+        "romajion": "-"
+      },
+      "vc0803_2": {
+        "kanji": "中学",
+        "indonesia": "SMP",
+        "english": "a junior high school",
+        "hiraganakun": "ちゅうがく",
+        "hiraganaon": "-",
+        "romajikun": "chuugaku",
+        "romajion": "-"
+      }
+    },
+    "vc0804": {
+      "vc0804_0": {
+        "kanji": "大",
+        "indonesia": "besar",
+        "english": "big, large, great",
+        "hiraganakun": "おおーきい",
+        "hiraganaon": "ダイ, タイ",
+        "romajikun": "oo-kii",
+        "romajion": "dai,tai"
+      },
+      "vc0804_1": {
+        "kanji": "大人",
+        "indonesia": "orang dewasa",
+        "english": "an adult",
+        "hiraganakun": "おとな",
+        "hiraganaon": "-",
+        "romajikun": "otona",
+        "romajion": "-"
+      },
+      "vc0804_2": {
+        "kanji": "大切",
+        "indonesia": "penting",
+        "english": "important",
+        "hiraganakun": "たいせつ",
+        "hiraganaon": "-",
+        "romajikun": "taisetsu",
+        "romajion": "-"
+      }
+    },
+    "vc0805": {
+      "vc0805_0": {
+        "kanji": "小",
+        "indonesia": "kecil",
+        "english": "small, little",
+        "hiraganakun": "ちいーさい",
+        "hiraganaon": "ショウ",
+        "romajikun": "chii-sai",
+        "romajion": "shou"
+      },
+      "vc0805_1": {
+        "kanji": "小学校",
+        "indonesia": "SD",
+        "english": "a primary school",
+        "hiraganakun": "しょうがっこう",
+        "hiraganaon": "-",
+        "romajikun": "shougakkou",
+        "romajion": "-"
+      }
+    }
+  }
+}
+
